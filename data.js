@@ -4727,8 +4727,8 @@ window.NING_DATA = {
     },
     {
       "id": "rewe",
-      "title": "REWE & ALDI",
-      "zh": "超市采购",
+      "title": "REWE · 超市购物",
+      "zh": "找商品、选食材、退瓶、自助收银与价格核对",
       "category": "Shopping",
       "date": "2026-09-05",
       "phrases": [
@@ -5016,8 +5016,8 @@ window.NING_DATA = {
         },
         {
           "id": "rewe-47",
-          "de": "Sammeln Sie Payback-Punkte?",
-          "en": "Do you collect Payback points?",
+          "de": "Nutzen Sie REWE Bonus?",
+          "en": "Do you use REWE Bonus?",
           "section": "12. Kasse / 收银台——今天最可能真正发生的完整对话"
         },
         {
@@ -5079,10 +5079,1642 @@ window.NING_DATA = {
           "de": "Danke, gleichfalls! / Ihnen auch!",
           "en": "Thanks, same to you! / You too!",
           "section": "12. Kasse / 收银台——今天最可能真正发生的完整对话"
+        },
+        {
+          "id": "rewe-58",
+          "de": "Ich brauche Eier, Gemüse, Joghurt und etwas fürs Abendessen.",
+          "en": "I need eggs, vegetables, yoghurt and something for dinner.",
+          "section": "13. 今日采购清单 / Den Einkauf planen",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "rewe-59",
+          "de": "Entschuldigung, wo finde ich die Eier?",
+          "en": "Excuse me, where can I find the eggs?",
+          "section": "13. 今日采购清单 / Den Einkauf planen",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "rewe-60",
+          "de": "Im nächsten Gang, auf der linken Seite.",
+          "en": "In the next aisle, on the left.",
+          "section": "13. 今日采购清单 / Den Einkauf planen",
+          "speaker": "店员",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "rewe-61",
+          "de": "Haben Sie Naturjoghurt ohne Zuckerzusatz?",
+          "en": "Do you have plain yoghurt with no added sugar?",
+          "section": "13. 今日采购清单 / Den Einkauf planen",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "rewe-62",
+          "de": "Schauen Sie bitte hier im Kühlregal.",
+          "en": "Please look here in the refrigerated section.",
+          "section": "13. 今日采购清单 / Den Einkauf planen",
+          "speaker": "店员",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "rewe-63",
+          "de": "Wo steht auf der Packung, ob das laktosefrei ist?",
+          "en": "Where does it say on the packaging whether this is lactose-free?",
+          "section": "13. 今日采购清单 / Den Einkauf planen",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "rewe-64",
+          "de": "Ist der Preis pro Stück oder pro Kilo?",
+          "en": "Is the price per item or per kilogram?",
+          "section": "13. 今日采购清单 / Den Einkauf planen",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "rewe-65",
+          "de": "Der Preis gilt pro Kilo.",
+          "en": "The price is per kilogram.",
+          "section": "13. 今日采购清单 / Den Einkauf planen",
+          "speaker": "店员",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "rewe-66",
+          "de": "Muss ich für die Bananen einen Aufkleber ausdrucken?",
+          "en": "Do I need to print a label for the bananas?",
+          "section": "13. 今日采购清单 / Den Einkauf planen",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "rewe-67",
+          "de": "Nein, wir wiegen sie an der Kasse.",
+          "en": "No, we weigh them at the checkout.",
+          "section": "13. 今日采购清单 / Den Einkauf planen",
+          "speaker": "店员",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "rewe-68",
+          "de": "Das Regal ist leer. Haben Sie noch etwas auf Lager?",
+          "en": "The shelf is empty. Do you have any more in stock?",
+          "section": "14. 找替代品与核对优惠 / Auswahl und Preis",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "rewe-69",
+          "de": "Das ist heute leider ausverkauft.",
+          "en": "Unfortunately, that is sold out today.",
+          "section": "14. 找替代品与核对优惠 / Auswahl und Preis",
+          "speaker": "店员",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "rewe-70",
+          "de": "Gibt es ein ähnliches Produkt?",
+          "en": "Is there a similar product?",
+          "section": "14. 找替代品与核对优惠 / Auswahl und Preis",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "rewe-71",
+          "de": "Vielleicht passt diese andere Sorte.",
+          "en": "Perhaps this other variety would work.",
+          "section": "14. 找替代品与核对优惠 / Auswahl und Preis",
+          "speaker": "店员",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "rewe-72",
+          "de": "Gilt dieser Angebotspreis auch ohne App?",
+          "en": "Does this offer price apply without the app as well?",
+          "section": "14. 找替代品与核对优惠 / Auswahl und Preis",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "rewe-73",
+          "de": "Ich schaue mir das Preisschild kurz an.",
+          "en": "I will take a quick look at the price label.",
+          "section": "14. 找替代品与核对优惠 / Auswahl und Preis",
+          "speaker": "店员",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "rewe-74",
+          "de": "Ist das Pfand schon im Preis enthalten?",
+          "en": "Is the deposit already included in the price?",
+          "section": "14. 找替代品与核对优惠 / Auswahl und Preis",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "rewe-75",
+          "de": "Das Pfand kommt noch dazu.",
+          "en": "The deposit is extra.",
+          "section": "14. 找替代品与核对优惠 / Auswahl und Preis",
+          "speaker": "店员",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "rewe-76",
+          "de": "Ich möchte diese Flaschen zurückgeben. Wo ist der Pfandautomat?",
+          "en": "I would like to return these bottles. Where is the bottle-return machine?",
+          "section": "14. 找替代品与核对优惠 / Auswahl und Preis",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "rewe-77",
+          "de": "Der Automat nimmt diese Flasche nicht an.",
+          "en": "The machine will not accept this bottle.",
+          "section": "14. 找替代品与核对优惠 / Auswahl und Preis",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "rewe-78",
+          "de": "Ich komme gleich und schaue nach.",
+          "en": "I will come over and take a look in a moment.",
+          "section": "14. 找替代品与核对优惠 / Auswahl und Preis",
+          "speaker": "店员",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "rewe-79",
+          "de": "Ist diese Selbstbedienungskasse frei?",
+          "en": "Is this self-service checkout available?",
+          "section": "15. 自助收银与离店 / An der Kasse",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "rewe-80",
+          "de": "Ich habe den Artikel aus Versehen zweimal gescannt.",
+          "en": "I accidentally scanned the item twice.",
+          "section": "15. 自助收银与离店 / An der Kasse",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "rewe-81",
+          "de": "Können Sie einen davon bitte löschen?",
+          "en": "Could you remove one of them, please?",
+          "section": "15. 自助收银与离店 / An der Kasse",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "rewe-82",
+          "de": "Einen Moment, ich helfe Ihnen.",
+          "en": "One moment, I will help you.",
+          "section": "15. 自助收银与离店 / An der Kasse",
+          "speaker": "店员",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "rewe-83",
+          "de": "Wo scanne ich meinen Pfandbon?",
+          "en": "Where do I scan my deposit voucher?",
+          "section": "15. 自助收银与离店 / An der Kasse",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "rewe-84",
+          "de": "Ich zeige Ihnen, wo Sie ihn scannen können.",
+          "en": "I will show you where you can scan it.",
+          "section": "15. 自助收银与离店 / An der Kasse",
+          "speaker": "店员",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "rewe-85",
+          "de": "Haben Sie die REWE-App?",
+          "en": "Do you have the REWE app?",
+          "section": "15. 自助收银与离店 / An der Kasse",
+          "speaker": "店员",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "rewe-86",
+          "de": "Nein, ich möchte heute ohne App bezahlen.",
+          "en": "No, I would like to pay without the app today.",
+          "section": "15. 自助收银与离店 / An der Kasse",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "rewe-87",
+          "de": "Möchten Sie den Kassenbon?",
+          "en": "Would you like the receipt?",
+          "section": "15. 自助收银与离店 / An der Kasse",
+          "speaker": "店员",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "rewe-88",
+          "de": "Ja bitte, ich möchte die Preise noch einmal prüfen.",
+          "en": "Yes please, I would like to check the prices again.",
+          "section": "15. 自助收银与离店 / An der Kasse",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "rewe-89",
+          "de": "Entschuldigung, auf dem Bon steht ein anderer Preis als am Regal.",
+          "en": "Excuse me, the price on the receipt is different from the one on the shelf.",
+          "section": "15. 自助收银与离店 / An der Kasse",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "rewe-90",
+          "de": "Wir prüfen den Preis noch einmal.",
+          "en": "We will check the price again.",
+          "section": "15. 自助收银与离店 / An der Kasse",
+          "speaker": "店员",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "rewe-91",
+          "de": "Danke, jetzt stimmt alles.",
+          "en": "Thank you, everything is correct now.",
+          "section": "15. 自助收银与离店 / An der Kasse",
+          "speaker": "你",
+          "added": "2026-09-24"
         }
       ],
-      "reference": "明白。按你实际走进 Aldi / REWE 的动线来：**区域标识 → 商品词 → 标签词 → 可能发生的对话**。德英双语，高密度。\n\n## 1. Eingang / 入口\n**der Eingang** entrance｜**der Ausgang** exit｜**der Einkaufswagen** shopping cart｜**der Einkaufskorb** basket｜**Pfand** deposit｜**Münze** coin\n\n可能遇到购物车需要硬币：\n- **Braucht man eine Münze für den Einkaufswagen?** — Do I need a coin for the shopping cart?\n- **Ja, einen Euro. / Sie können auch einen Chip nehmen.** — Yes, one euro. / You can also use a token.\n- **Haben Sie vielleicht einen Einkaufschip?** — Do you happen to have a shopping-cart token?\n\n## 2. Obst & Gemüse / 水果蔬菜区\n**das Obst** fruit｜**das Gemüse** vegetables｜**frisch** fresh｜**Bio** organic｜**regional** regional/local｜**lose** loose｜**verpackt** packaged\n常见商品：**Apfel** apple｜**Banane** banana｜**Orange** orange｜**Trauben** grapes｜**Erdbeeren** strawberries｜**Tomate** tomato｜**Gurke** cucumber｜**Kartoffel** potato｜**Zwiebel** onion｜**Paprika** bell pepper｜**Karotte/Möhre** carrot｜**Pilze** mushrooms｜**Salat** lettuce/salad\n价格牌重点：\n- **1,99 €/kg** — €1.99 per kilogram\n- **1,49 €/Stück** — €1.49 each\n- **500-g-Packung** — 500g package\n- **Herkunft: Deutschland** — Origin: Germany\n- **Klasse I** — Class I / quality grade\n- **aus ökologischem Anbau** — organically grown\n可能对话：\n- **Entschuldigung, muss ich das hier wiegen?** — Excuse me, do I need to weigh this here?\n- **Nein, das wird an der Kasse gewogen.** — No, it’ll be weighed at the checkout.\n- **Kann ich die auch einzeln kaufen?** — Can I buy these individually?\n- **Ja, die sind lose.** — Yes, they’re sold loose.\n这里记住 **wiegen = weigh；das Gewicht = weight；lose = loose/unpackaged**。\n\n## 3. Backwaren / 面包烘焙区\n**die Backwaren** baked goods｜**das Brot** bread｜**das Brötchen** bread roll｜**Vollkornbrot** whole-grain bread｜**Toastbrot** toast bread｜**Croissant** croissant｜**Brezel** pretzel｜**Mehrkorn** multigrain｜**Roggen** rye｜**Weizen** wheat｜**Dinkel** spelt\n机器/柜子上可能看到：\n**Entnahme** removal/pick-up｜**Zange** tongs｜**Tüte** bag｜**Bitte nicht mit der Hand entnehmen** please do not take by hand\n对话：\n- **Entschuldigung, wie funktioniert das?** — Excuse me, how does this work?\n- **Sie drücken einfach hier und nehmen das Brot unten raus.** — Just press here and take the bread out below.\n- **Ist das Vollkornbrot?** — Is this whole-grain bread?\n- **Nein, das ist Mehrkornbrot.** — No, that’s multigrain bread.\n\n## 4. Kühlregal / 冷藏乳制品区\n**das Kühlregal** refrigerated section｜**Milchprodukte** dairy products｜**die Milch** milk｜**Vollmilch** whole milk｜**fettarme Milch** low-fat milk｜**Hafermilch/Haferdrink** oat milk｜**Joghurt** yogurt｜**Quark** quark｜**Butter** butter｜**Käse** cheese｜**Sahne** cream\n包装重点：\n**3,5 % Fett** 3.5% fat｜**fettarm** low-fat｜**laktosefrei** lactose-free｜**Natur** plain｜**ungesüßt** unsweetened｜**länger haltbar** longer-lasting｜**gekühlt lagern** keep refrigerated\n找不到东西：\n- **Entschuldigung, wo finde ich Hafermilch?** — Excuse me, where can I find oat milk?\n- **Die finden Sie dort hinten, neben der normalen Milch.** — You’ll find it back there, next to the regular milk.\n- **Da hinten links?** — Back there on the left?\n- **Genau.** — Exactly.\n- **Danke schön!** — Thank you!\n如果没听懂：\n- **Entschuldigung, noch einmal bitte.** — Sorry, once again please.\n- **Könnten Sie das bitte etwas langsamer sagen?** — Could you say that a little more slowly, please?\n\n## 5. Fleisch, Wurst & Fisch / 肉、香肠、鱼\n**das Fleisch** meat｜**Rindfleisch** beef｜**Schweinefleisch** pork｜**Hähnchen** chicken｜**Hackfleisch** minced meat｜**Fisch** fish｜**Wurst** sausage/cold cuts｜**Schinken** ham\n标签非常实用：\n**frisch** fresh｜**tiefgekühlt** frozen｜**zum Braten** for frying/roasting｜**zum Grillen** for grilling｜**mariniert** marinated｜**geräuchert** smoked｜**gekocht** cooked｜**roh** raw\n日期：\n- **zu verbrauchen bis 08.09.** — use by Sep 8\n- **mindestens haltbar bis (MHD) 15.09.** — best before Sep 15\n区别一定记：**verbrauchen bis = use by（安全期限）**；**mindestens haltbar bis = best before（品质期限）**。\n\n## 6. Grundnahrungsmittel / 主食、干货\n**Nudeln** pasta｜**Reis** rice｜**Mehl** flour｜**Zucker** sugar｜**Salz** salt｜**Öl** oil｜**Haferflocken** oats｜**Müsli** muesli｜**Konserven** canned food\n你会看到：\n**Langkornreis** long-grain rice｜**Vollkornreis** brown/whole-grain rice｜**Weizenmehl** wheat flour｜**Olivenöl** olive oil｜**Sonnenblumenöl** sunflower oil｜**stückige Tomaten** chopped tomatoes｜**passierte Tomaten** strained/puréed tomatoes\n找商品可以直接替换：\n- **Wo finde ich Reis?** — Where can I find rice?\n- **Haben Sie Sojasoße?** — Do you have soy sauce?\n- **Ja, bei den asiatischen Lebensmitteln.** — Yes, with the Asian foods.\n- **In welchem Gang?** — In which aisle?\n- **Im dritten Gang, auf der rechten Seite.** — In the third aisle, on the right.\n方向词：**Gang** aisle｜**Regal** shelf｜**vorne** front｜**hinten** back｜**links/rechts** left/right｜**neben** next to｜**gegenüber** opposite.\n\n## 7. Tiefkühlkost / 冷冻区\n**Tiefkühlkost / TK** frozen food｜**Tiefkühlpizza** frozen pizza｜**Pommes** fries｜**Gemüse** vegetables｜**Fischstäbchen** fish fingers｜**Eis** ice cream\n包装：\n**tiefgekühlt** frozen｜**nicht wieder einfrieren** do not refreeze｜**bei −18 °C lagern** store at −18°C｜**Backofen** oven｜**Pfanne** frying pan｜**Mikrowelle** microwave\n烹饪说明：\n- **Backofen auf 200 °C vorheizen.** — Preheat oven to 200°C.\n- **10–12 Minuten backen.** — Bake for 10–12 minutes.\n\n## 8. Getränke / 饮料区\n**Getränke** beverages｜**Wasser** water｜**Mineralwasser** mineral water｜**Saft** juice｜**Apfelsaft** apple juice｜**Orangensaft** orange juice\n德国尤其要认：\n**still** still water｜**medium** lightly sparkling｜**classic** strongly sparkling｜**mit Kohlensäure** carbonated｜**ohne Kohlensäure** non-carbonated\n瓶子上：\n**Mehrweg** reusable bottle｜**Einweg** single-use container｜**Pfand 0,25 €** €0.25 deposit\n如果你想买普通不带气的水，直接找：**STILL / OHNE KOHLENSÄURE**。\n\n## 9. Haushaltswaren / 日用品区\n**Haushalt** household｜**Waschmittel** laundry detergent｜**Spülmittel** dishwashing liquid｜**Geschirrspültabs** dishwasher tablets｜**Reinigungsmittel** cleaning product｜**Toilettenpapier** toilet paper｜**Küchenrolle** kitchen roll｜**Müllbeutel** garbage bags\n标签：\n**für Weißes** for whites｜**für Buntes** for colours｜**Vollwaschmittel** universal/heavy-duty detergent｜**Colorwaschmittel** colour detergent｜**Handwäsche** hand wash｜**30 Waschgänge** 30 washes\n实际问：\n- **Entschuldigung, ich suche Waschmittel.** — Excuse me, I’m looking for laundry detergent.\n- **Das ist im nächsten Gang.** — It’s in the next aisle.\n这里的 **Ich suche...** 比你每次都说 **Wo finde ich...?** 更值得一起掌握。\n\n## 10. Angebot / 促销价格牌\n在 Aldi、REWE 非常值得专门读：\n**Angebot** offer/special｜**Aktion** promotion｜**reduziert** reduced｜**Rabatt** discount｜**günstiger** cheaper｜**nur diese Woche** this week only｜**ab Montag** from Monday｜**solange der Vorrat reicht** while stocks last\n价格：\n**Grundpreis: 2,98 €/kg** base/unit price｜**Stückpreis** price per item｜**je 1 kg** per 1 kg｜**statt 2,49 € → 1,99 €** €1.99 instead of €2.49\nREWE还可能遇到会员/App价格：**mit App** with app｜**Coupon aktivieren** activate coupon。\n\n## 11. Pfandautomat / 退瓶机\n**Pfandautomat** bottle-return machine｜**Leergut** empties/returnable containers｜**Pfandbon** deposit voucher｜**Flaschen** bottles｜**Dosen** cans\n机器可能显示：\n- **Flasche einlegen.** — Insert bottle.\n- **Flasche nicht erkannt.** — Bottle not recognized.\n- **Bon ausdrucken.** — Print voucher.\n拿着 Pfandbon 去结账即可。\n不会操作：\n- **Entschuldigung, können Sie mir kurz helfen?** — Excuse me, could you help me for a moment?\n- **Ich weiß nicht, wie der Pfandautomat funktioniert.** — I don't know how the bottle-return machine works.\n- **Einfach die Flaschen hier rein und am Ende drücken Sie auf den Knopf.** — Just put the bottles in here and press the button at the end.\n\n## 12. Kasse / 收银台——今天最可能真正发生的完整对话\n**Kasse** checkout｜**Kassierer/Kassiererin** cashier｜**bezahlen** pay｜**bar** cash｜**mit Karte** by card｜**Kassenbon/Bon** receipt\n你排队：\n- **Entschuldigung, ist hier das Ende der Schlange?** — Excuse me, is this the end of the line?\n- **Ja.** — Yes.\n收银员：\n- **Hallo! / Guten Tag!** — Hello!\n- **Hallo!** — Hello!\n可能问：\n- **Haben Sie die REWE-App?** — Do you have the REWE app?\n- **Nein, habe ich nicht.** — No, I don't.\n或者：\n- **Sammeln Sie Payback-Punkte?** — Do you collect Payback points?\n- **Nein, danke.** — No, thanks.\n结账：\n- **Das macht 18,47 Euro.** — That’ll be €18.47.\n- **Mit Karte, bitte.** — By card, please.\n- **Bar oder mit Karte?** — Cash or card?\n- **Mit Karte.** — By card.\n可能问小票：\n- **Möchten Sie den Bon? / Brauchen Sie den Kassenbon?** — Would you like the receipt?\n- **Ja, bitte.** — Yes, please.\n- **Nein, danke.** — No, thanks.\n结束：\n- **Danke, schönen Tag noch!** — Thanks, have a nice day!\n- **Danke, gleichfalls! / Ihnen auch!** — Thanks, same to you! / You too!\n\n**今天最值得建立条件反射的 10 个词：** `Eingang → Obst & Gemüse → Backwaren → Kühlregal → Tiefkühlkost → Getränke → Angebot → Pfand → Kasse → Ausgang`\n\n以及 5 个万能句型：**Wo finde ich ___?** / **Ich suche ___.** / **Haben Sie ___?** / **Noch einmal bitte.** / **Mit Karte, bitte.**\n\n下午不用刻意背更多。你就按照这个动线逛，**看到对应区域→回忆德语词；看到标签→先自己猜；遇到机会→主动问。** 回来后可以把你今天在 Aldi/REWE **实际看到、听到但没懂的东西**丢给我，我们再做“超市场景第二轮”，这样会比继续扩词表有效得多。",
-      "origin": "历史对话整理"
+      "reference": "明白。按你实际走进 Aldi / REWE 的动线来：**区域标识 → 商品词 → 标签词 → 可能发生的对话**。德英双语，高密度。\n\n## 1. Eingang / 入口\n**der Eingang** entrance｜**der Ausgang** exit｜**der Einkaufswagen** shopping cart｜**der Einkaufskorb** basket｜**Pfand** deposit｜**Münze** coin\n\n可能遇到购物车需要硬币：\n- **Braucht man eine Münze für den Einkaufswagen?** — Do I need a coin for the shopping cart?\n- **Ja, einen Euro. / Sie können auch einen Chip nehmen.** — Yes, one euro. / You can also use a token.\n- **Haben Sie vielleicht einen Einkaufschip?** — Do you happen to have a shopping-cart token?\n\n## 2. Obst & Gemüse / 水果蔬菜区\n**das Obst** fruit｜**das Gemüse** vegetables｜**frisch** fresh｜**Bio** organic｜**regional** regional/local｜**lose** loose｜**verpackt** packaged\n常见商品：**Apfel** apple｜**Banane** banana｜**Orange** orange｜**Trauben** grapes｜**Erdbeeren** strawberries｜**Tomate** tomato｜**Gurke** cucumber｜**Kartoffel** potato｜**Zwiebel** onion｜**Paprika** bell pepper｜**Karotte/Möhre** carrot｜**Pilze** mushrooms｜**Salat** lettuce/salad\n价格牌重点：\n- **1,99 €/kg** — €1.99 per kilogram\n- **1,49 €/Stück** — €1.49 each\n- **500-g-Packung** — 500g package\n- **Herkunft: Deutschland** — Origin: Germany\n- **Klasse I** — Class I / quality grade\n- **aus ökologischem Anbau** — organically grown\n可能对话：\n- **Entschuldigung, muss ich das hier wiegen?** — Excuse me, do I need to weigh this here?\n- **Nein, das wird an der Kasse gewogen.** — No, it’ll be weighed at the checkout.\n- **Kann ich die auch einzeln kaufen?** — Can I buy these individually?\n- **Ja, die sind lose.** — Yes, they’re sold loose.\n这里记住 **wiegen = weigh；das Gewicht = weight；lose = loose/unpackaged**。\n\n## 3. Backwaren / 面包烘焙区\n**die Backwaren** baked goods｜**das Brot** bread｜**das Brötchen** bread roll｜**Vollkornbrot** whole-grain bread｜**Toastbrot** toast bread｜**Croissant** croissant｜**Brezel** pretzel｜**Mehrkorn** multigrain｜**Roggen** rye｜**Weizen** wheat｜**Dinkel** spelt\n机器/柜子上可能看到：\n**Entnahme** removal/pick-up｜**Zange** tongs｜**Tüte** bag｜**Bitte nicht mit der Hand entnehmen** please do not take by hand\n对话：\n- **Entschuldigung, wie funktioniert das?** — Excuse me, how does this work?\n- **Sie drücken einfach hier und nehmen das Brot unten raus.** — Just press here and take the bread out below.\n- **Ist das Vollkornbrot?** — Is this whole-grain bread?\n- **Nein, das ist Mehrkornbrot.** — No, that’s multigrain bread.\n\n## 4. Kühlregal / 冷藏乳制品区\n**das Kühlregal** refrigerated section｜**Milchprodukte** dairy products｜**die Milch** milk｜**Vollmilch** whole milk｜**fettarme Milch** low-fat milk｜**Hafermilch/Haferdrink** oat milk｜**Joghurt** yogurt｜**Quark** quark｜**Butter** butter｜**Käse** cheese｜**Sahne** cream\n包装重点：\n**3,5 % Fett** 3.5% fat｜**fettarm** low-fat｜**laktosefrei** lactose-free｜**Natur** plain｜**ungesüßt** unsweetened｜**länger haltbar** longer-lasting｜**gekühlt lagern** keep refrigerated\n找不到东西：\n- **Entschuldigung, wo finde ich Hafermilch?** — Excuse me, where can I find oat milk?\n- **Die finden Sie dort hinten, neben der normalen Milch.** — You’ll find it back there, next to the regular milk.\n- **Da hinten links?** — Back there on the left?\n- **Genau.** — Exactly.\n- **Danke schön!** — Thank you!\n如果没听懂：\n- **Entschuldigung, noch einmal bitte.** — Sorry, once again please.\n- **Könnten Sie das bitte etwas langsamer sagen?** — Could you say that a little more slowly, please?\n\n## 5. Fleisch, Wurst & Fisch / 肉、香肠、鱼\n**das Fleisch** meat｜**Rindfleisch** beef｜**Schweinefleisch** pork｜**Hähnchen** chicken｜**Hackfleisch** minced meat｜**Fisch** fish｜**Wurst** sausage/cold cuts｜**Schinken** ham\n标签非常实用：\n**frisch** fresh｜**tiefgekühlt** frozen｜**zum Braten** for frying/roasting｜**zum Grillen** for grilling｜**mariniert** marinated｜**geräuchert** smoked｜**gekocht** cooked｜**roh** raw\n日期：\n- **zu verbrauchen bis 08.09.** — use by Sep 8\n- **mindestens haltbar bis (MHD) 15.09.** — best before Sep 15\n区别一定记：**verbrauchen bis = use by（安全期限）**；**mindestens haltbar bis = best before（品质期限）**。\n\n## 6. Grundnahrungsmittel / 主食、干货\n**Nudeln** pasta｜**Reis** rice｜**Mehl** flour｜**Zucker** sugar｜**Salz** salt｜**Öl** oil｜**Haferflocken** oats｜**Müsli** muesli｜**Konserven** canned food\n你会看到：\n**Langkornreis** long-grain rice｜**Vollkornreis** brown/whole-grain rice｜**Weizenmehl** wheat flour｜**Olivenöl** olive oil｜**Sonnenblumenöl** sunflower oil｜**stückige Tomaten** chopped tomatoes｜**passierte Tomaten** strained/puréed tomatoes\n找商品可以直接替换：\n- **Wo finde ich Reis?** — Where can I find rice?\n- **Haben Sie Sojasoße?** — Do you have soy sauce?\n- **Ja, bei den asiatischen Lebensmitteln.** — Yes, with the Asian foods.\n- **In welchem Gang?** — In which aisle?\n- **Im dritten Gang, auf der rechten Seite.** — In the third aisle, on the right.\n方向词：**Gang** aisle｜**Regal** shelf｜**vorne** front｜**hinten** back｜**links/rechts** left/right｜**neben** next to｜**gegenüber** opposite.\n\n## 7. Tiefkühlkost / 冷冻区\n**Tiefkühlkost / TK** frozen food｜**Tiefkühlpizza** frozen pizza｜**Pommes** fries｜**Gemüse** vegetables｜**Fischstäbchen** fish fingers｜**Eis** ice cream\n包装：\n**tiefgekühlt** frozen｜**nicht wieder einfrieren** do not refreeze｜**bei −18 °C lagern** store at −18°C｜**Backofen** oven｜**Pfanne** frying pan｜**Mikrowelle** microwave\n烹饪说明：\n- **Backofen auf 200 °C vorheizen.** — Preheat oven to 200°C.\n- **10–12 Minuten backen.** — Bake for 10–12 minutes.\n\n## 8. Getränke / 饮料区\n**Getränke** beverages｜**Wasser** water｜**Mineralwasser** mineral water｜**Saft** juice｜**Apfelsaft** apple juice｜**Orangensaft** orange juice\n德国尤其要认：\n**still** still water｜**medium** lightly sparkling｜**classic** strongly sparkling｜**mit Kohlensäure** carbonated｜**ohne Kohlensäure** non-carbonated\n瓶子上：\n**Mehrweg** reusable bottle｜**Einweg** single-use container｜**Pfand 0,25 €** €0.25 deposit\n如果你想买普通不带气的水，直接找：**STILL / OHNE KOHLENSÄURE**。\n\n## 9. Haushaltswaren / 日用品区\n**Haushalt** household｜**Waschmittel** laundry detergent｜**Spülmittel** dishwashing liquid｜**Geschirrspültabs** dishwasher tablets｜**Reinigungsmittel** cleaning product｜**Toilettenpapier** toilet paper｜**Küchenrolle** kitchen roll｜**Müllbeutel** garbage bags\n标签：\n**für Weißes** for whites｜**für Buntes** for colours｜**Vollwaschmittel** universal/heavy-duty detergent｜**Colorwaschmittel** colour detergent｜**Handwäsche** hand wash｜**30 Waschgänge** 30 washes\n实际问：\n- **Entschuldigung, ich suche Waschmittel.** — Excuse me, I’m looking for laundry detergent.\n- **Das ist im nächsten Gang.** — It’s in the next aisle.\n这里的 **Ich suche...** 比你每次都说 **Wo finde ich...?** 更值得一起掌握。\n\n## 10. Angebot / 促销价格牌\n在 Aldi、REWE 非常值得专门读：\n**Angebot** offer/special｜**Aktion** promotion｜**reduziert** reduced｜**Rabatt** discount｜**günstiger** cheaper｜**nur diese Woche** this week only｜**ab Montag** from Monday｜**solange der Vorrat reicht** while stocks last\n价格：\n**Grundpreis: 2,98 €/kg** base/unit price｜**Stückpreis** price per item｜**je 1 kg** per 1 kg｜**statt 2,49 € → 1,99 €** €1.99 instead of €2.49\nREWE还可能遇到会员/App价格：**mit App** with app｜**Coupon aktivieren** activate coupon。\n\n## 11. Pfandautomat / 退瓶机\n**Pfandautomat** bottle-return machine｜**Leergut** empties/returnable containers｜**Pfandbon** deposit voucher｜**Flaschen** bottles｜**Dosen** cans\n机器可能显示：\n- **Flasche einlegen.** — Insert bottle.\n- **Flasche nicht erkannt.** — Bottle not recognized.\n- **Bon ausdrucken.** — Print voucher.\n拿着 Pfandbon 去结账即可。\n不会操作：\n- **Entschuldigung, können Sie mir kurz helfen?** — Excuse me, could you help me for a moment?\n- **Ich weiß nicht, wie der Pfandautomat funktioniert.** — I don't know how the bottle-return machine works.\n- **Einfach die Flaschen hier rein und am Ende drücken Sie auf den Knopf.** — Just put the bottles in here and press the button at the end.\n\n## 12. Kasse / 收银台——今天最可能真正发生的完整对话\n**Kasse** checkout｜**Kassierer/Kassiererin** cashier｜**bezahlen** pay｜**bar** cash｜**mit Karte** by card｜**Kassenbon/Bon** receipt\n你排队：\n- **Entschuldigung, ist hier das Ende der Schlange?** — Excuse me, is this the end of the line?\n- **Ja.** — Yes.\n收银员：\n- **Hallo! / Guten Tag!** — Hello!\n- **Hallo!** — Hello!\n可能问：\n- **Haben Sie die REWE-App?** — Do you have the REWE app?\n- **Nein, habe ich nicht.** — No, I don't.\n或者：\n- **Nutzen Sie REWE Bonus?** — Do you use REWE Bonus?\n- **Nein, danke.** — No, thanks.\n结账：\n- **Das macht 18,47 Euro.** — That’ll be €18.47.\n- **Mit Karte, bitte.** — By card, please.\n- **Bar oder mit Karte?** — Cash or card?\n- **Mit Karte.** — By card.\n可能问小票：\n- **Möchten Sie den Bon? / Brauchen Sie den Kassenbon?** — Would you like the receipt?\n- **Ja, bitte.** — Yes, please.\n- **Nein, danke.** — No, thanks.\n结束：\n- **Danke, schönen Tag noch!** — Thanks, have a nice day!\n- **Danke, gleichfalls! / Ihnen auch!** — Thanks, same to you! / You too!\n\n**今天最值得建立条件反射的 10 个词：** `Eingang → Obst & Gemüse → Backwaren → Kühlregal → Tiefkühlkost → Getränke → Angebot → Pfand → Kasse → Ausgang`\n\n以及 5 个万能句型：**Wo finde ich ___?** / **Ich suche ___.** / **Haben Sie ___?** / **Noch einmal bitte.** / **Mit Karte, bitte.**\n\n下午不用刻意背更多。你就按照这个动线逛，**看到对应区域→回忆德语词；看到标签→先自己猜；遇到机会→主动问。** 回来后可以把你今天在 Aldi/REWE **实际看到、听到但没懂的东西**丢给我，我们再做“超市场景第二轮”，这样会比继续扩词表有效得多。\n\n## 更新 · 2026-09-24\nREWE 使用 REWE Bonus，已结束与 PAYBACK 的合作；本次同步修正收银练习。dm 的 PAYBACK 问答见独立 dm 场景。\n关键词：der Pfandbon = deposit voucher；ausverkauft = sold out；ohne Zuckerzusatz = no added sugar；das Preisschild = price label；die Selbstbedienungskasse = self-service checkout。\n任务：先问一种商品的位置，再确认价格，最后练习处理重复扫码。货架位置、优惠和店员回复均为示例。",
+      "origin": "历史对话整理",
+      "updated": "2026-09-24",
+      "sources": [
+        {
+          "title": "REWE 官方：REWE Bonus 与 PAYBACK",
+          "url": "https://www.rewe.de/payback/"
+        }
+      ]
+    },
+    {
+      "id": "thalia",
+      "title": "Thalia · 取书与逛店",
+      "zh": "问路、取书、找书、咨询推荐与结账",
+      "category": "Shopping",
+      "date": "2026-09-23",
+      "phrases": [
+        {
+          "id": "thalia-0",
+          "de": "Entschuldigung, wo ist die nächste Thalia-Filiale?",
+          "en": "Excuse me, where is the nearest Thalia store?",
+          "section": "1. 到店前问路 / Den Weg finden",
+          "speaker": "你"
+        },
+        {
+          "id": "thalia-1",
+          "de": "Wie komme ich am besten zu Thalia?",
+          "en": "What is the best way to get to Thalia?",
+          "section": "1. 到店前问路 / Den Weg finden",
+          "speaker": "你"
+        },
+        {
+          "id": "thalia-2",
+          "de": "Ist die Buchhandlung in diesem Einkaufszentrum?",
+          "en": "Is the bookshop in this shopping centre?",
+          "section": "1. 到店前问路 / Den Weg finden",
+          "speaker": "你"
+        },
+        {
+          "id": "thalia-3",
+          "de": "Auf welcher Etage ist Thalia?",
+          "en": "Which floor is Thalia on?",
+          "section": "1. 到店前问路 / Den Weg finden",
+          "speaker": "你"
+        },
+        {
+          "id": "thalia-4",
+          "de": "Gehen Sie geradeaus und dann links. Die Buchhandlung ist neben dem Eingang.",
+          "en": "Go straight ahead and then left. The bookshop is next to the entrance.",
+          "section": "1. 到店前问路 / Den Weg finden",
+          "speaker": "路人"
+        },
+        {
+          "id": "thalia-5",
+          "de": "Danke, ich suche eine Abholstation für eine Online-Bestellung.",
+          "en": "Thanks, I’m looking for a pickup point for an online order.",
+          "section": "1. 到店前问路 / Den Weg finden",
+          "speaker": "你"
+        },
+        {
+          "id": "thalia-6",
+          "de": "Guten Tag, ich möchte eine Online-Bestellung abholen.",
+          "en": "Hello, I’d like to pick up an online order.",
+          "section": "2. 说明取书来意 / Die Bestellung abholen",
+          "speaker": "你"
+        },
+        {
+          "id": "thalia-7",
+          "de": "Ich habe eine Abholbestätigung auf meinem Handy.",
+          "en": "I have a pickup confirmation on my phone.",
+          "section": "2. 说明取书来意 / Die Bestellung abholen",
+          "speaker": "你"
+        },
+        {
+          "id": "thalia-8",
+          "de": "Die Bestellung läuft auf den Namen Ning.",
+          "en": "The order is under the name Ning.",
+          "section": "2. 说明取书来意 / Die Bestellung abholen",
+          "speaker": "你"
+        },
+        {
+          "id": "thalia-9",
+          "de": "Hier ist meine Bestellnummer.",
+          "en": "Here is my order number.",
+          "section": "2. 说明取书来意 / Die Bestellung abholen",
+          "speaker": "你"
+        },
+        {
+          "id": "thalia-10",
+          "de": "Brauchen Sie auch einen Ausweis?",
+          "en": "Do you also need an ID?",
+          "section": "2. 说明取书来意 / Die Bestellung abholen",
+          "speaker": "你"
+        },
+        {
+          "id": "thalia-11",
+          "de": "Könnten Sie bitte kurz nachsehen?",
+          "en": "Could you please check quickly?",
+          "section": "2. 说明取书来意 / Die Bestellung abholen",
+          "speaker": "你"
+        },
+        {
+          "id": "thalia-12",
+          "de": "Einen Moment bitte, ich suche die Bestellung im System.",
+          "en": "One moment, please. I’m looking for the order in the system.",
+          "section": "2. 说明取书来意 / Die Bestellung abholen",
+          "speaker": "店员"
+        },
+        {
+          "id": "thalia-13",
+          "de": "Ist das die Bestellung für Ning?",
+          "en": "Is this the order for Ning?",
+          "section": "2. 说明取书来意 / Die Bestellung abholen",
+          "speaker": "店员"
+        },
+        {
+          "id": "thalia-14",
+          "de": "Ja, genau. Das ist mein Buch.",
+          "en": "Yes, exactly. That is my book.",
+          "section": "2. 说明取书来意 / Die Bestellung abholen",
+          "speaker": "你"
+        },
+        {
+          "id": "thalia-32",
+          "de": "Haben Sie schon eine Nachricht bekommen, dass die Bestellung abholbereit ist?",
+          "en": "Have you received a message saying that your order is ready for collection?",
+          "section": "3. 取书分支问答 / Fragen bei der Abholung",
+          "speaker": "店员",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "thalia-33",
+          "de": "Ja, hier ist die Nachricht.",
+          "en": "Yes, here is the message.",
+          "section": "3. 取书分支问答 / Fragen bei der Abholung",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "thalia-34",
+          "de": "Auf welchen Namen haben Sie bestellt?",
+          "en": "What name did you order under?",
+          "section": "3. 取书分支问答 / Fragen bei der Abholung",
+          "speaker": "店员",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "thalia-35",
+          "de": "Auf den Namen Ning. Soll ich ihn buchstabieren?",
+          "en": "Under the name Ning. Shall I spell it?",
+          "section": "3. 取书分支问答 / Fragen bei der Abholung",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "thalia-36",
+          "de": "Ja, bitte.",
+          "en": "Yes, please.",
+          "section": "3. 取书分支问答 / Fragen bei der Abholung",
+          "speaker": "店员",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "thalia-37",
+          "de": "N, I, N, G.",
+          "en": "N, I, N, G.",
+          "section": "3. 取书分支问答 / Fragen bei der Abholung",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "thalia-38",
+          "de": "Ich finde die Bestellung gerade nicht. Ist das die richtige Filiale?",
+          "en": "I cannot find the order right now. Is this the correct branch?",
+          "section": "3. 取书分支问答 / Fragen bei der Abholung",
+          "speaker": "店员",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "thalia-39",
+          "de": "Könnten wir die Filiale in der Bestätigung zusammen prüfen?",
+          "en": "Could we check the branch in the confirmation together?",
+          "section": "3. 取书分支问答 / Fragen bei der Abholung",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "thalia-40",
+          "de": "Das Buch ist noch nicht abholbereit.",
+          "en": "The book is not ready for collection yet.",
+          "section": "3. 取书分支问答 / Fragen bei der Abholung",
+          "speaker": "店员",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "thalia-41",
+          "de": "Wann soll ich am besten noch einmal nachfragen?",
+          "en": "When would be a good time to ask again?",
+          "section": "3. 取书分支问答 / Fragen bei der Abholung",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "thalia-42",
+          "de": "Kann ich den ersten Teil der Bestellung schon mitnehmen?",
+          "en": "Can I take the first part of the order now?",
+          "section": "3. 取书分支问答 / Fragen bei der Abholung",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "thalia-43",
+          "de": "Ich prüfe kurz, ob das möglich ist.",
+          "en": "I will quickly check whether that is possible.",
+          "section": "3. 取书分支问答 / Fragen bei der Abholung",
+          "speaker": "店员",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "thalia-15",
+          "de": "Ich möchte kurz prüfen, ob der Titel stimmt.",
+          "en": "I’d like to quickly check whether the title is correct.",
+          "section": "4. 核对书和订单 / Buch und Bestellung prüfen",
+          "speaker": "你"
+        },
+        {
+          "id": "thalia-16",
+          "de": "Könnten Sie bitte den Titel noch einmal nennen?",
+          "en": "Could you please say the title again?",
+          "section": "4. 核对书和订单 / Buch und Bestellung prüfen",
+          "speaker": "你"
+        },
+        {
+          "id": "thalia-17",
+          "de": "Ist dieses Buch auf Deutsch oder auf Englisch?",
+          "en": "Is this book in German or in English?",
+          "section": "4. 核对书和订单 / Buch und Bestellung prüfen",
+          "speaker": "你"
+        },
+        {
+          "id": "thalia-18",
+          "de": "Ich hatte eigentlich eine andere Ausgabe bestellt.",
+          "en": "I actually ordered a different edition.",
+          "section": "4. 核对书和订单 / Buch und Bestellung prüfen",
+          "speaker": "你"
+        },
+        {
+          "id": "thalia-19",
+          "de": "Ist die Bestellung vollständig?",
+          "en": "Is the order complete?",
+          "section": "4. 核对书和订单 / Buch und Bestellung prüfen",
+          "speaker": "你"
+        },
+        {
+          "id": "thalia-20",
+          "de": "Der zweite Titel ist noch nicht angekommen.",
+          "en": "The second title has not arrived yet.",
+          "section": "4. 核对书和订单 / Buch und Bestellung prüfen",
+          "speaker": "店员"
+        },
+        {
+          "id": "thalia-44",
+          "de": "Kann ich Ihnen helfen?",
+          "en": "Can I help you?",
+          "section": "5. 在店里逛逛 / Sich umsehen",
+          "speaker": "店员",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "thalia-45",
+          "de": "Danke, ich schaue mich erst einmal um.",
+          "en": "Thank you, I am just having a look first.",
+          "section": "5. 在店里逛逛 / Sich umsehen",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "thalia-46",
+          "de": "Wo finde ich Bücher auf Englisch?",
+          "en": "Where can I find books in English?",
+          "section": "5. 在店里逛逛 / Sich umsehen",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "thalia-47",
+          "de": "Die stehen im ersten Stock, neben den Reiseführern.",
+          "en": "They are on the first floor, next to the travel guides.",
+          "section": "5. 在店里逛逛 / Sich umsehen",
+          "speaker": "店员",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "thalia-48",
+          "de": "Gibt es einen Aufzug?",
+          "en": "Is there a lift?",
+          "section": "5. 在店里逛逛 / Sich umsehen",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "thalia-49",
+          "de": "Ja, dort hinten rechts.",
+          "en": "Yes, at the back on the right.",
+          "section": "5. 在店里逛逛 / Sich umsehen",
+          "speaker": "店员",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "thalia-50",
+          "de": "Ich suche ein einfaches Buch auf Deutsch, ungefähr auf A2-Niveau.",
+          "en": "I am looking for an easy book in German, around A2 level.",
+          "section": "5. 在店里逛逛 / Sich umsehen",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "thalia-51",
+          "de": "Möchten Sie lieber eine Geschichte oder ein Übungsbuch?",
+          "en": "Would you prefer a story or a workbook?",
+          "section": "5. 在店里逛逛 / Sich umsehen",
+          "speaker": "店员",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "thalia-52",
+          "de": "Lieber eine kurze Geschichte mit einfachen Sätzen.",
+          "en": "A short story with simple sentences, please.",
+          "section": "5. 在店里逛逛 / Sich umsehen",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "thalia-53",
+          "de": "Haben Sie auch Bücher mit Hörbuch oder Audiodateien?",
+          "en": "Do you also have books with an audiobook or audio files?",
+          "section": "5. 在店里逛逛 / Sich umsehen",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "thalia-54",
+          "de": "Bei diesem Buch finden Sie die Audiodateien über einen QR-Code.",
+          "en": "For this book, you can access the audio files via a QR code.",
+          "section": "5. 在店里逛逛 / Sich umsehen",
+          "speaker": "店员",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "thalia-55",
+          "de": "Darf ich kurz in das Buch hineinschauen?",
+          "en": "May I have a quick look inside the book?",
+          "section": "5. 在店里逛逛 / Sich umsehen",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "thalia-56",
+          "de": "Natürlich, gern.",
+          "en": "Of course, go ahead.",
+          "section": "5. 在店里逛逛 / Sich umsehen",
+          "speaker": "店员",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "thalia-57",
+          "de": "Wo finde ich Bücher über Marketing oder Unternehmensführung?",
+          "en": "Where can I find books about marketing or business management?",
+          "section": "5. 在店里逛逛 / Sich umsehen",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "thalia-58",
+          "de": "Schauen Sie bitte in der Abteilung Wirtschaft nach.",
+          "en": "Please look in the business section.",
+          "section": "5. 在店里逛逛 / Sich umsehen",
+          "speaker": "店员",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "thalia-59",
+          "de": "Gibt es das auch als Taschenbuch?",
+          "en": "Is this also available in paperback?",
+          "section": "5. 在店里逛逛 / Sich umsehen",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "thalia-60",
+          "de": "Im Moment haben wir nur die gebundene Ausgabe da.",
+          "en": "At the moment, we only have the hardback edition here.",
+          "section": "5. 在店里逛逛 / Sich umsehen",
+          "speaker": "店员",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "thalia-61",
+          "de": "Können Sie die andere Ausgabe für mich bestellen?",
+          "en": "Can you order the other edition for me?",
+          "section": "5. 在店里逛逛 / Sich umsehen",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "thalia-21",
+          "de": "Kann ich das Buch hier bezahlen?",
+          "en": "Can I pay for the book here?",
+          "section": "6. 付款与问题处理 / Bezahlen und Probleme",
+          "speaker": "你"
+        },
+        {
+          "id": "thalia-22",
+          "de": "Ich habe bereits online bezahlt.",
+          "en": "I have already paid online.",
+          "section": "6. 付款与问题处理 / Bezahlen und Probleme",
+          "speaker": "你"
+        },
+        {
+          "id": "thalia-23",
+          "de": "Kann ich mit Karte zahlen?",
+          "en": "Can I pay by card?",
+          "section": "6. 付款与问题处理 / Bezahlen und Probleme",
+          "speaker": "你"
+        },
+        {
+          "id": "thalia-24",
+          "de": "Bekomme ich dafür eine Rechnung oder einen Kassenbon?",
+          "en": "Will I get an invoice or a receipt for this?",
+          "section": "6. 付款与问题处理 / Bezahlen und Probleme",
+          "speaker": "你"
+        },
+        {
+          "id": "thalia-25",
+          "de": "Wie lange kann ich das Buch zurückgeben?",
+          "en": "How long can I return the book?",
+          "section": "6. 付款与问题处理 / Bezahlen und Probleme",
+          "speaker": "你"
+        },
+        {
+          "id": "thalia-26",
+          "de": "Das Buch ist leider beschädigt.",
+          "en": "Unfortunately, the book is damaged.",
+          "section": "6. 付款与问题处理 / Bezahlen und Probleme",
+          "speaker": "你"
+        },
+        {
+          "id": "thalia-27",
+          "de": "Könnte ich es umtauschen?",
+          "en": "Could I exchange it?",
+          "section": "6. 付款与问题处理 / Bezahlen und Probleme",
+          "speaker": "你"
+        },
+        {
+          "id": "thalia-62",
+          "de": "Ich nehme dieses Buch noch dazu.",
+          "en": "I will take this book as well.",
+          "section": "6. 付款与问题处理 / Bezahlen und Probleme",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "thalia-63",
+          "de": "Können Sie das bitte getrennt von meiner Abholung abrechnen?",
+          "en": "Could you please charge for this separately from my collection order?",
+          "section": "6. 付款与问题处理 / Bezahlen und Probleme",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "thalia-64",
+          "de": "Brauchen Sie eine Tüte?",
+          "en": "Do you need a bag?",
+          "section": "6. 付款与问题处理 / Bezahlen und Probleme",
+          "speaker": "店员",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "thalia-65",
+          "de": "Nein danke, ich habe einen Beutel dabei.",
+          "en": "No, thank you. I have a bag with me.",
+          "section": "6. 付款与问题处理 / Bezahlen und Probleme",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "thalia-66",
+          "de": "Vielen Dank für die Empfehlung!",
+          "en": "Thank you for the recommendation!",
+          "section": "6. 付款与问题处理 / Bezahlen und Probleme",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "thalia-28",
+          "de": "Vielen Dank für Ihre Hilfe. Schönen Tag noch!",
+          "en": "Thank you very much for your help. Have a nice day!",
+          "section": "7. 离店与复述 / Nach dem Besuch",
+          "speaker": "你"
+        },
+        {
+          "id": "thalia-29",
+          "de": "Ich habe das Buch abgeholt und möchte den Titel später noch einmal nachschlagen.",
+          "en": "I have picked up the book and would like to look up the title again later.",
+          "section": "7. 离店与复述 / Nach dem Besuch",
+          "speaker": "你"
+        },
+        {
+          "id": "thalia-30",
+          "de": "Die Abholung hat gut funktioniert.",
+          "en": "The pickup worked well.",
+          "section": "7. 离店与复述 / Nach dem Besuch",
+          "speaker": "你"
+        },
+        {
+          "id": "thalia-31",
+          "de": "Ich notiere mir heute fünf neue Wörter aus dem Buch.",
+          "en": "Today I’m writing down five new words from the book.",
+          "section": "7. 离店与复述 / Nach dem Besuch",
+          "speaker": "你"
+        },
+        {
+          "id": "thalia-67",
+          "de": "Ich habe mein Buch abgeholt und mich danach noch im Laden umgesehen.",
+          "en": "I collected my book and then browsed in the shop.",
+          "section": "7. 离店与复述 / Nach dem Besuch",
+          "speaker": "你",
+          "added": "2026-09-24"
+        }
+      ],
+      "reference": "## 取书核心链\nOnline-Bestellung → Abholbestätigung → Bestellnummer → Name → im System nachsehen。\n先说：Ich möchte eine Bestellung abholen。确认门店和书名，再询问付款。\n\n## 逛店词汇\ndie Buchhandlung = bookshop；die Filiale = branch；das Taschenbuch = paperback；die gebundene Ausgabe = hardback；sich umsehen = browse；abholbereit = ready for collection；buchstabieren = spell。\n\n## 今天的开口目标\n1. 说清楚取书来意，练习姓名拼写。\n2. 追问：Wo finde ich Bücher auf Englisch?\n3. 推荐需求：Ich suche ein einfaches Buch auf Deutsch。\n4. 离店后复述：Ich habe mein Buch abgeholt und mich im Laden umgesehen。\n\n楼层、库存与店员回复为练习示例；取书凭证、支付和退换条件以订单及当地门店说明为准。",
+      "origin": "新增场景练习",
+      "updated": "2026-09-24"
+    },
+    {
+      "id": "trampoline",
+      "title": "Trampolin · 蹦床体育课",
+      "zh": "找场馆、报到、听指令、求助与课后交流",
+      "category": "Sport",
+      "date": "2026-09-24",
+      "updated": "2026-09-24",
+      "phrases": [
+        {
+          "id": "trampoline-0",
+          "de": "Entschuldigung, wo findet der Trampolinkurs statt?",
+          "en": "Excuse me, where does the trampoline class take place?",
+          "section": "1. 找到场馆 / Vor dem Kurs",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "trampoline-1",
+          "de": "In der Sporthalle, hinter dem Hauptgebäude.",
+          "en": "In the sports hall, behind the main building.",
+          "section": "1. 找到场馆 / Vor dem Kurs",
+          "speaker": "路人",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "trampoline-2",
+          "de": "Ist das hier der Eingang zur Sporthalle?",
+          "en": "Is this the entrance to the sports hall?",
+          "section": "1. 找到场馆 / Vor dem Kurs",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "trampoline-3",
+          "de": "Ja. Die Umkleiden sind links.",
+          "en": "Yes. The changing rooms are on the left.",
+          "section": "1. 找到场馆 / Vor dem Kurs",
+          "speaker": "工作人员",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "trampoline-4",
+          "de": "Wo kann ich meine Tasche abstellen?",
+          "en": "Where can I put my bag?",
+          "section": "1. 找到场馆 / Vor dem Kurs",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "trampoline-5",
+          "de": "Fragen Sie bitte die Kursleitung.",
+          "en": "Please ask the instructor.",
+          "section": "1. 找到场馆 / Vor dem Kurs",
+          "speaker": "工作人员",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "trampoline-6",
+          "de": "Hallo, ich bin für den Trampolinkurs angemeldet.",
+          "en": "Hi, I am registered for the trampoline class.",
+          "section": "1. 找到场馆 / Vor dem Kurs",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "trampoline-7",
+          "de": "Wie heißt du?",
+          "en": "What is your name?",
+          "section": "1. 找到场馆 / Vor dem Kurs",
+          "speaker": "教练",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "trampoline-8",
+          "de": "Ich heiße Ning. Ich bin heute zum ersten Mal dabei.",
+          "en": "My name is Ning. This is my first class.",
+          "section": "1. 找到场馆 / Vor dem Kurs",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "trampoline-9",
+          "de": "Hast du schon Erfahrung mit Trampolinspringen?",
+          "en": "Have you tried trampolining before?",
+          "section": "1. 找到场馆 / Vor dem Kurs",
+          "speaker": "教练",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "trampoline-10",
+          "de": "Nein, ich bin Anfängerin.",
+          "en": "No, I am a beginner.",
+          "section": "1. 找到场馆 / Vor dem Kurs",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "trampoline-11",
+          "de": "Mein Deutsch ist noch nicht so gut. Könntest du langsam sprechen?",
+          "en": "My German is not very good yet. Could you speak slowly?",
+          "section": "1. 找到场馆 / Vor dem Kurs",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "trampoline-12",
+          "de": "Welche Schuhe oder Socken brauche ich für diesen Kurs?",
+          "en": "What shoes or socks do I need for this class?",
+          "section": "2. 准备与规则 / Vorbereitung",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "trampoline-13",
+          "de": "Ich erkläre euch gleich, was ihr für die Geräte braucht.",
+          "en": "I will explain in a moment what you need for the equipment.",
+          "section": "2. 准备与规则 / Vorbereitung",
+          "speaker": "教练",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "trampoline-14",
+          "de": "Muss ich meinen Schmuck ablegen?",
+          "en": "Do I need to take off my jewellery?",
+          "section": "2. 准备与规则 / Vorbereitung",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "trampoline-15",
+          "de": "Ja, bitte leg ihn vor dem Training ab.",
+          "en": "Yes, please take it off before training.",
+          "section": "2. 准备与规则 / Vorbereitung",
+          "speaker": "教练",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "trampoline-16",
+          "de": "Kannst du mir zuerst die Sicherheitsregeln erklären?",
+          "en": "Can you explain the safety rules to me first?",
+          "section": "2. 准备与规则 / Vorbereitung",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "trampoline-17",
+          "de": "Wartet bitte, bis ich euch ein Zeichen gebe.",
+          "en": "Please wait until I give you a signal.",
+          "section": "2. 准备与规则 / Vorbereitung",
+          "speaker": "教练",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "trampoline-18",
+          "de": "Welches Zeichen bedeutet, dass ich aufhören soll?",
+          "en": "Which signal means that I should stop?",
+          "section": "2. 准备与规则 / Vorbereitung",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "trampoline-19",
+          "de": "Ich zeige euch das Zeichen vor der ersten Übung.",
+          "en": "I will show you the signal before the first exercise.",
+          "section": "2. 准备与规则 / Vorbereitung",
+          "speaker": "教练",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "trampoline-20",
+          "de": "Wir fangen mit dem Aufwärmen an.",
+          "en": "We will start with the warm-up.",
+          "section": "2. 准备与规则 / Vorbereitung",
+          "speaker": "教练",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "trampoline-21",
+          "de": "Wo soll ich mich hinstellen?",
+          "en": "Where should I stand?",
+          "section": "2. 准备与规则 / Vorbereitung",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "trampoline-22",
+          "de": "Stell dich bitte hier neben die Matte.",
+          "en": "Please stand here next to the mat.",
+          "section": "2. 准备与规则 / Vorbereitung",
+          "speaker": "教练",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "trampoline-23",
+          "de": "Schaut bitte zuerst zu.",
+          "en": "Please watch first.",
+          "section": "3. 听指令与确认 / Während der Stunde",
+          "speaker": "教练",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "trampoline-24",
+          "de": "Kannst du die Übung noch einmal zeigen?",
+          "en": "Can you demonstrate the exercise again?",
+          "section": "3. 听指令与确认 / Während der Stunde",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "trampoline-25",
+          "de": "Wir üben das Schritt für Schritt.",
+          "en": "We will practise it step by step.",
+          "section": "3. 听指令与确认 / Während der Stunde",
+          "speaker": "教练",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "trampoline-26",
+          "de": "Meinst du diese Bewegung?",
+          "en": "Do you mean this movement?",
+          "section": "3. 听指令与确认 / Während der Stunde",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "trampoline-27",
+          "de": "Ja, genau diese.",
+          "en": "Yes, exactly that one.",
+          "section": "3. 听指令与确认 / Während der Stunde",
+          "speaker": "教练",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "trampoline-28",
+          "de": "Was bedeutet „landen“?",
+          "en": "What does “landen” mean?",
+          "section": "3. 听指令与确认 / Während der Stunde",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "trampoline-29",
+          "de": "Das bedeutet, nach dem Sprung wieder aufzukommen.",
+          "en": "It means coming down again after the jump.",
+          "section": "3. 听指令与确认 / Während der Stunde",
+          "speaker": "教练",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "trampoline-30",
+          "de": "Bin ich jetzt dran?",
+          "en": "Is it my turn now?",
+          "section": "3. 听指令与确认 / Während der Stunde",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "trampoline-31",
+          "de": "Warte bitte noch einen Moment.",
+          "en": "Please wait a moment longer.",
+          "section": "3. 听指令与确认 / Während der Stunde",
+          "speaker": "教练",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "trampoline-32",
+          "de": "Du bist nach mir dran.",
+          "en": "Your turn is after mine.",
+          "section": "3. 听指令与确认 / Während der Stunde",
+          "speaker": "同学",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "trampoline-33",
+          "de": "Wie oft soll ich die Übung wiederholen?",
+          "en": "How many times should I repeat the exercise?",
+          "section": "3. 听指令与确认 / Während der Stunde",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "trampoline-34",
+          "de": "Ich sage dir, wann wir wechseln.",
+          "en": "I will tell you when we switch.",
+          "section": "3. 听指令与确认 / Während der Stunde",
+          "speaker": "教练",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "trampoline-35",
+          "de": "Kannst du mir sagen, was ich verbessern kann?",
+          "en": "Can you tell me what I can improve?",
+          "section": "3. 听指令与确认 / Während der Stunde",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "trampoline-36",
+          "de": "Ich möchte erst die einfachere Variante üben.",
+          "en": "I would like to practise the easier version first.",
+          "section": "3. 听指令与确认 / Während der Stunde",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "trampoline-37",
+          "de": "Ich fühle mich dabei noch unsicher.",
+          "en": "I still feel unsure about this.",
+          "section": "4. 不确定或不舒服 / Hilfe holen",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "trampoline-38",
+          "de": "Kannst du bitte kurz bei mir bleiben?",
+          "en": "Can you stay with me for a moment, please?",
+          "section": "4. 不确定或不舒服 / Hilfe holen",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "trampoline-39",
+          "de": "Diese Übung möchte ich heute noch nicht machen.",
+          "en": "I do not want to do this exercise today yet.",
+          "section": "4. 不确定或不舒服 / Hilfe holen",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "trampoline-40",
+          "de": "In Ordnung, wir finden eine andere Übung.",
+          "en": "All right, we will find a different exercise.",
+          "section": "4. 不确定或不舒服 / Hilfe holen",
+          "speaker": "教练",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "trampoline-41",
+          "de": "Ich brauche eine Pause.",
+          "en": "I need a break.",
+          "section": "4. 不确定或不舒服 / Hilfe holen",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "trampoline-42",
+          "de": "Mir ist schwindelig. Ich möchte aufhören.",
+          "en": "I feel dizzy. I would like to stop.",
+          "section": "4. 不确定或不舒服 / Hilfe holen",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "trampoline-43",
+          "de": "Mein Knöchel tut weh. Kannst du mir bitte helfen?",
+          "en": "My ankle hurts. Could you help me, please?",
+          "section": "4. 不确定或不舒服 / Hilfe holen",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "trampoline-44",
+          "de": "Bleib bitte hier. Ich hole Hilfe.",
+          "en": "Please stay here. I will get help.",
+          "section": "4. 不确定或不舒服 / Hilfe holen",
+          "speaker": "教练",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "trampoline-45",
+          "de": "Wo ist das Erste-Hilfe-Set?",
+          "en": "Where is the first aid kit?",
+          "section": "4. 不确定或不舒服 / Hilfe holen",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "trampoline-46",
+          "de": "Kannst du das bitte auch auf Englisch erklären?",
+          "en": "Could you explain that in English as well?",
+          "section": "4. 不确定或不舒服 / Hilfe holen",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "trampoline-47",
+          "de": "Wie fandest du die Stunde?",
+          "en": "How did you find the class?",
+          "section": "5. 课后交流 / Nach dem Kurs",
+          "speaker": "同学",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "trampoline-48",
+          "de": "Es hat Spaß gemacht, aber es war anstrengend.",
+          "en": "It was fun, but tiring.",
+          "section": "5. 课后交流 / Nach dem Kurs",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "trampoline-49",
+          "de": "Ich habe heute viel Neues gelernt.",
+          "en": "I learned a lot of new things today.",
+          "section": "5. 课后交流 / Nach dem Kurs",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "trampoline-50",
+          "de": "Findet der Kurs nächste Woche zur gleichen Zeit statt?",
+          "en": "Is the class at the same time next week?",
+          "section": "5. 课后交流 / Nach dem Kurs",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "trampoline-51",
+          "de": "Schau bitte noch einmal in den Kursplan.",
+          "en": "Please check the course timetable again.",
+          "section": "5. 课后交流 / Nach dem Kurs",
+          "speaker": "教练",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "trampoline-52",
+          "de": "Danke für deine Geduld. Bis nächste Woche!",
+          "en": "Thank you for your patience. See you next week!",
+          "section": "5. 课后交流 / Nach dem Kurs",
+          "speaker": "你",
+          "added": "2026-09-24"
+        }
+      ],
+      "origin": "原创场景练习",
+      "reference": "## 听得懂的指令\naufwärmen = warm up；zuschauen = watch；springen = jump；landen = land；warten = wait；wechseln = switch；aufhören = stop；dran sein = have a turn。\n\n## 今天的开口目标\n1. 报到并说明是第一次上课。\n2. 用 Kannst du …? 请教练慢说、示范或解释。\n3. 说清楚想休息、感到不稳或不舒服。\n\n## Sie 还是 du？\n问场馆工作人员可用 Sie；本段课程对话假设教练和同学使用 du / ihr。跟随现场称呼即可。\n这些是课堂沟通练习，具体装备和动作由现场教练指导。"
+    },
+    {
+      "id": "dm",
+      "title": "dm · 日用品购物",
+      "zh": "洗护用品、洗衣清洁、规格选择、积分与结账",
+      "category": "Shopping",
+      "date": "2026-09-24",
+      "updated": "2026-09-24",
+      "phrases": [
+        {
+          "id": "dm-0",
+          "de": "Entschuldigung, wo finde ich Shampoo?",
+          "en": "Excuse me, where can I find shampoo?",
+          "section": "1. 进店找商品 / Im dm-Markt",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "dm-1",
+          "de": "Bei der Haarpflege, im nächsten Gang.",
+          "en": "In the haircare section, in the next aisle.",
+          "section": "1. 进店找商品 / Im dm-Markt",
+          "speaker": "店员",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "dm-2",
+          "de": "Ich suche Duschgel ohne Parfum.",
+          "en": "I am looking for shower gel without fragrance.",
+          "section": "1. 进店找商品 / Im dm-Markt",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "dm-3",
+          "de": "Möchten Sie eine kleine oder eine große Flasche?",
+          "en": "Would you like a small or a large bottle?",
+          "section": "1. 进店找商品 / Im dm-Markt",
+          "speaker": "店员",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "dm-4",
+          "de": "Eine kleine Flasche zum Ausprobieren, bitte.",
+          "en": "A small bottle to try, please.",
+          "section": "1. 进店找商品 / Im dm-Markt",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "dm-5",
+          "de": "Wo finde ich Zahnpasta und Zahnseide?",
+          "en": "Where can I find toothpaste and dental floss?",
+          "section": "1. 进店找商品 / Im dm-Markt",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "dm-6",
+          "de": "Beides finden Sie bei der Zahnpflege.",
+          "en": "You will find both in the dental care section.",
+          "section": "1. 进店找商品 / Im dm-Markt",
+          "speaker": "店员",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "dm-7",
+          "de": "Haben Sie auch Reisegrößen?",
+          "en": "Do you also have travel sizes?",
+          "section": "1. 进店找商品 / Im dm-Markt",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "dm-8",
+          "de": "Ja, schauen Sie bitte dort im kleinen Regal.",
+          "en": "Yes, please look over there on the small shelf.",
+          "section": "1. 进店找商品 / Im dm-Markt",
+          "speaker": "店员",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "dm-9",
+          "de": "Ist das Shampoo oder eine Spülung?",
+          "en": "Is this shampoo or conditioner?",
+          "section": "2. 分清洗护与清洁用品 / Das richtige Produkt",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "dm-10",
+          "de": "Das ist eine Spülung für die Haare.",
+          "en": "That is hair conditioner.",
+          "section": "2. 分清洗护与清洁用品 / Das richtige Produkt",
+          "speaker": "店员",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "dm-11",
+          "de": "Was bedeutet „Nachfüllpack“?",
+          "en": "What does “Nachfüllpack” mean?",
+          "section": "2. 分清洗护与清洁用品 / Das richtige Produkt",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "dm-12",
+          "de": "Damit können Sie die leere Flasche wieder auffüllen.",
+          "en": "You can use it to refill the empty bottle.",
+          "section": "2. 分清洗护与清洁用品 / Das richtige Produkt",
+          "speaker": "店员",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "dm-13",
+          "de": "Ich suche Waschmittel für bunte Kleidung.",
+          "en": "I am looking for detergent for coloured laundry.",
+          "section": "2. 分清洗护与清洁用品 / Das richtige Produkt",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "dm-14",
+          "de": "Schauen Sie nach Colorwaschmittel.",
+          "en": "Look for colour detergent.",
+          "section": "2. 分清洗护与清洁用品 / Das richtige Produkt",
+          "speaker": "店员",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "dm-15",
+          "de": "Ist das Waschmittel oder Weichspüler?",
+          "en": "Is this detergent or fabric softener?",
+          "section": "2. 分清洗护与清洁用品 / Das richtige Produkt",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "dm-16",
+          "de": "Das ist Weichspüler. Das Waschmittel steht daneben.",
+          "en": "That is fabric softener. The detergent is next to it.",
+          "section": "2. 分清洗护与清洁用品 / Das richtige Produkt",
+          "speaker": "店员",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "dm-17",
+          "de": "Ich brauche Spülmittel für den Abwasch von Hand.",
+          "en": "I need washing-up liquid for washing dishes by hand.",
+          "section": "2. 分清洗护与清洁用品 / Das richtige Produkt",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "dm-18",
+          "de": "Das finden Sie hier. Die Tabs sind für die Spülmaschine.",
+          "en": "You will find that here. The tablets are for the dishwasher.",
+          "section": "2. 分清洗护与清洁用品 / Das richtige Produkt",
+          "speaker": "店员",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "dm-19",
+          "de": "Wo finde ich Müllbeutel mit zwanzig Litern?",
+          "en": "Where can I find twenty-litre bin bags?",
+          "section": "2. 分清洗护与清洁用品 / Das richtige Produkt",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "dm-20",
+          "de": "Ich brauche außerdem Schwämme und Küchenpapier.",
+          "en": "I also need sponges and kitchen roll.",
+          "section": "2. 分清洗护与清洁用品 / Das richtige Produkt",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "dm-21",
+          "de": "Wie viel ist in dieser Packung?",
+          "en": "How much is in this pack?",
+          "section": "3. 规格、价格与缺货 / Vergleichen und nachfragen",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "dm-22",
+          "de": "Fünfhundert Milliliter.",
+          "en": "Five hundred millilitres.",
+          "section": "3. 规格、价格与缺货 / Vergleichen und nachfragen",
+          "speaker": "店员",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "dm-23",
+          "de": "Gibt es das auch in einer kleineren Packung?",
+          "en": "Is this available in a smaller pack as well?",
+          "section": "3. 规格、价格与缺货 / Vergleichen und nachfragen",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "dm-24",
+          "de": "Die kleine Packung ist gerade nicht da.",
+          "en": "The small pack is not available right now.",
+          "section": "3. 规格、价格与缺货 / Vergleichen und nachfragen",
+          "speaker": "店员",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "dm-25",
+          "de": "Können Sie nachsehen, ob eine andere Filiale das vorrätig hat?",
+          "en": "Can you check whether another branch has it in stock?",
+          "section": "3. 规格、价格与缺货 / Vergleichen und nachfragen",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "dm-26",
+          "de": "Welches Produkt ist pro Liter günstiger?",
+          "en": "Which product is cheaper per litre?",
+          "section": "3. 规格、价格与缺货 / Vergleichen und nachfragen",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "dm-27",
+          "de": "Vergleichen Sie den Grundpreis auf dem Preisschild.",
+          "en": "Compare the unit price on the price label.",
+          "section": "3. 规格、价格与缺货 / Vergleichen und nachfragen",
+          "speaker": "店员",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "dm-28",
+          "de": "Darf ich diesen Tester benutzen?",
+          "en": "May I use this tester?",
+          "section": "3. 规格、价格与缺货 / Vergleichen und nachfragen",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "dm-29",
+          "de": "Ja, bitte benutzen Sie nur den gekennzeichneten Tester.",
+          "en": "Yes, please use only the marked tester.",
+          "section": "3. 规格、价格与缺货 / Vergleichen und nachfragen",
+          "speaker": "店员",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "dm-30",
+          "de": "Ich überlege noch. Vielen Dank!",
+          "en": "I am still thinking about it. Thank you!",
+          "section": "3. 规格、价格与缺货 / Vergleichen und nachfragen",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "dm-31",
+          "de": "Haben Sie eine PAYBACK Karte?",
+          "en": "Do you have a PAYBACK card?",
+          "section": "4. 积分、付款与离店 / Bezahlen",
+          "speaker": "店员",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "dm-32",
+          "de": "Nein, ich sammle keine Punkte.",
+          "en": "No, I do not collect points.",
+          "section": "4. 积分、付款与离店 / Bezahlen",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "dm-33",
+          "de": "Ja, ich habe die Karte in der App.",
+          "en": "Yes, I have the card in the app.",
+          "section": "4. 积分、付款与离店 / Bezahlen",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "dm-34",
+          "de": "Soll ich den Code hier scannen?",
+          "en": "Should I scan the code here?",
+          "section": "4. 积分、付款与离店 / Bezahlen",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "dm-35",
+          "de": "Ja, halten Sie ihn bitte an den Scanner.",
+          "en": "Yes, please hold it up to the scanner.",
+          "section": "4. 积分、付款与离店 / Bezahlen",
+          "speaker": "店员",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "dm-36",
+          "de": "Ich habe einen Coupon aktiviert. Wurde er berücksichtigt?",
+          "en": "I activated a coupon. Has it been applied?",
+          "section": "4. 积分、付款与离店 / Bezahlen",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "dm-37",
+          "de": "Ich prüfe das kurz auf dem Bon.",
+          "en": "I will quickly check it on the receipt.",
+          "section": "4. 积分、付款与离店 / Bezahlen",
+          "speaker": "店员",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "dm-38",
+          "de": "Kann ich kontaktlos bezahlen?",
+          "en": "Can I pay contactlessly?",
+          "section": "4. 积分、付款与离店 / Bezahlen",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "dm-39",
+          "de": "Ja, halten Sie Ihre Karte bitte ans Gerät.",
+          "en": "Yes, please hold your card against the terminal.",
+          "section": "4. 积分、付款与离店 / Bezahlen",
+          "speaker": "店员",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "dm-40",
+          "de": "Ich brauche keine Tüte.",
+          "en": "I do not need a bag.",
+          "section": "4. 积分、付款与离店 / Bezahlen",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "dm-41",
+          "de": "Könnte ich bitte den Kassenbon haben?",
+          "en": "Could I have the receipt, please?",
+          "section": "4. 积分、付款与离店 / Bezahlen",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "dm-42",
+          "de": "Die Verpackung ist beschädigt. Können Sie mir bitte helfen?",
+          "en": "The packaging is damaged. Could you help me, please?",
+          "section": "4. 积分、付款与离店 / Bezahlen",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "dm-43",
+          "de": "Ich habe aus Versehen das falsche Produkt gekauft. Kann ich es umtauschen?",
+          "en": "I accidentally bought the wrong product. Can I exchange it?",
+          "section": "4. 积分、付款与离店 / Bezahlen",
+          "speaker": "你",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "dm-44",
+          "de": "Zeigen Sie mir bitte das Produkt und den Bon.",
+          "en": "Please show me the product and receipt.",
+          "section": "4. 积分、付款与离店 / Bezahlen",
+          "speaker": "店员",
+          "added": "2026-09-24"
+        },
+        {
+          "id": "dm-45",
+          "de": "Danke für Ihre Hilfe. Auf Wiedersehen!",
+          "en": "Thank you for your help. Goodbye!",
+          "section": "4. 积分、付款与离店 / Bezahlen",
+          "speaker": "你",
+          "added": "2026-09-24"
+        }
+      ],
+      "origin": "原创场景练习",
+      "reference": "## 最容易混淆的词\ndie Spülung = hair conditioner；der Weichspüler = fabric softener；das Waschmittel = laundry detergent；das Spülmittel = washing-up liquid；die Spülmaschinentabs = dishwasher tablets。\n\n## 选购时会看到\nohne Parfum = fragrance-free；die Reisegröße = travel size；der Nachfüllpack = refill pack；der Grundpreis = unit price。\n\n## 今天的开口任务\n用 Ich suche … 列出三样日用品，分别追问位置、规格或价格。收银时练习有／没有积分卡两种回答。\n店员回答是可能的练习分支；库存、商品使用方法和退换条件请询问现场工作人员。",
+      "sources": [
+        {
+          "title": "dm 官方：PAYBACK 积分",
+          "url": "https://www.dm.de/services/payback/punkte-sammeln-3501606"
+        }
+      ]
     }
+  ],
+  "updated": "2026-09-24",
+  "featured": [
+    "thalia",
+    "trampoline",
+    "rewe",
+    "dm"
   ]
 };
