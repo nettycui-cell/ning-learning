@@ -5,7 +5,7 @@
 ## 使用
 
 - Today：每日三项任务、已掌握句数、收藏数和学习记录。
-- German Alltag：14 个生活场景，1028 条德英练习句；按对话日期、类型、关键词和收藏/未掌握筛选。德语自测、揭晓英文、德语语音选择、逐句掌握。
+- German Alltag：19 个生活场景，1246 条德英练习句；按对话日期、类型、关键词和收藏/未掌握筛选。德语自测、揭晓英文、德语语音选择、逐句掌握。
 - A1–A2 Deutsch：11 个新增单元，input → 词汇句型 → 15–30 分钟朗读 → 3 题自动批改 → review。
 - MBA Daily：7 个新增英文精读单元，附官方原文来源、原创日常商业案例、summary、词汇、框架和思考笔记。不是实时新闻源。
 - 每日学习从 2026-09-23 起按日期轮换；后续轮次明确显示为复习。用户可以选择任意已有单元，任务和笔记按实际学习日期保存。
@@ -50,3 +50,11 @@ MBA 参考原文（2026-09-23 核对）：Amazon 1997 shareholder letter、Harva
 朗读显式选择德语 voice；保持点击时同步启动，避免延迟播放；支持语速、设备语音重载、停止与 Google Translate 备用听音。语音选择与语速随进度备份导入导出。本机语音可离线使用，在线语音和备用听音需联网。
 
 实现参考：[Web Speech voice](https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesisUtterance/voice)、[voiceschanged](https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesis/voiceschanged_event)。商店信息核对：[REWE Bonus](https://www.rewe.de/payback/)、[dm PAYBACK](https://www.dm.de/services/payback/punkte-sammeln-3501606)。问答均为原创语言练习。
+
+## 2026-09-25 按计划提前准备
+
+首页未来 14 天日期选择，活动可提前学习：9/25 击剑，9/26 Shaolin Kempo + Enschede，9/27 射箭 + Köln。三项运动暂按每周重复，两次旅行仅限上述日期。新增 218 条原创问答，涵盖前、中、后及常见问题。`planning.js` 保存周期规则、单次活动、单日例外、优先练习句与每周挑战；学习日期按 Europe/Berlin 计算。
+
+每次活动有提前预习、当天热身、事后复盘三项独立进度，支持备份与历史记录；不把提前预习误计为未来日期已学习。1028 条既有练习及其 ID 完整保留。
+
+本地定时任务每天 20:00 检查最新告知的安排与已连接日历中的未来两周，尽量提前两天补齐新活动资料。网站本身不直接读取日历。2026-09-25 日历未查到相应活动，当前安排来自用户告知。定时任务需要电脑开机、应用运行及可用连接。无新安排时复用现有资料；不重复生成旅行。

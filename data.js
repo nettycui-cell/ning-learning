@@ -6708,13 +6708,1619 @@ window.NING_DATA = {
           "url": "https://www.dm.de/services/payback/punkte-sammeln-3501606"
         }
       ]
+    },
+    {
+      "id": "fencing",
+      "title": "Fechten · Fencing",
+      "zh": "击剑课：报到、装备、听口令与课后交流",
+      "category": "Sport",
+      "date": "2026-09-25",
+      "updated": "2026-09-25",
+      "origin": "原创情境练习 · 根据已知活动提前准备",
+      "phrases": [
+        {
+          "id": "fencing-0",
+          "section": "01 · 课前问路与报到",
+          "speaker": "你",
+          "de": "Entschuldigung, wo findet der Fechtkurs statt?",
+          "en": "Excuse me, where does the fencing class take place?"
+        },
+        {
+          "id": "fencing-1",
+          "section": "01 · 课前问路与报到",
+          "speaker": "工作人员",
+          "de": "Der Kurs findet in der Sporthalle statt.",
+          "en": "The class takes place in the sports hall."
+        },
+        {
+          "id": "fencing-2",
+          "section": "01 · 课前问路与报到",
+          "speaker": "你",
+          "de": "Ist das hier der Anfängerkurs im Fechten?",
+          "en": "Is this the beginners' fencing class?"
+        },
+        {
+          "id": "fencing-3",
+          "section": "01 · 课前问路与报到",
+          "speaker": "教练",
+          "de": "Ja. Bist du zum ersten Mal hier?",
+          "en": "Yes. Is this your first time here?"
+        },
+        {
+          "id": "fencing-4",
+          "section": "01 · 课前问路与报到",
+          "speaker": "你",
+          "de": "Ja, ich habe noch nie gefochten.",
+          "en": "Yes, I have never fenced before."
+        },
+        {
+          "id": "fencing-5",
+          "section": "01 · 课前问路与报到",
+          "speaker": "你",
+          "de": "Ich habe mich online angemeldet. Muss ich mich noch eintragen?",
+          "en": "I registered online. Do I still need to sign in?"
+        },
+        {
+          "id": "fencing-6",
+          "section": "01 · 课前问路与报到",
+          "speaker": "教练",
+          "de": "Ja, bitte trag deinen Namen in die Liste ein.",
+          "en": "Yes, please add your name to the list."
+        },
+        {
+          "id": "fencing-7",
+          "section": "01 · 课前问路与报到",
+          "speaker": "你",
+          "de": "Wo kann ich meine Tasche abstellen?",
+          "en": "Where can I leave my bag?"
+        },
+        {
+          "id": "fencing-8",
+          "section": "02 · 装备与准备",
+          "speaker": "你",
+          "de": "Kann ich die Ausrüstung hier ausleihen?",
+          "en": "Can I borrow the equipment here?"
+        },
+        {
+          "id": "fencing-9",
+          "section": "02 · 装备与准备",
+          "speaker": "教练",
+          "de": "Wir schauen zuerst, welche Größe dir passt.",
+          "en": "First, let's check which size fits you."
+        },
+        {
+          "id": "fencing-10",
+          "section": "02 · 装备与准备",
+          "speaker": "你",
+          "de": "Die Maske sitzt etwas locker. Können Sie das prüfen?",
+          "en": "The mask feels a little loose. Could you check it?"
+        },
+        {
+          "id": "fencing-11",
+          "section": "02 · 装备与准备",
+          "speaker": "教练",
+          "de": "Bitte warte, ich prüfe den Sitz.",
+          "en": "Please wait; I'll check the fit."
+        },
+        {
+          "id": "fencing-12",
+          "section": "02 · 装备与准备",
+          "speaker": "你",
+          "de": "Welche Schutzkleidung brauche ich für diese Übung?",
+          "en": "What protective clothing do I need for this exercise?"
+        },
+        {
+          "id": "fencing-13",
+          "section": "02 · 装备与准备",
+          "speaker": "你",
+          "de": "Brauche ich einen Handschuh für die rechte oder die linke Hand?",
+          "en": "Do I need a glove for my right or left hand?"
+        },
+        {
+          "id": "fencing-14",
+          "section": "02 · 装备与准备",
+          "speaker": "你",
+          "de": "Ich bin Rechtshänderin.",
+          "en": "I am right-handed."
+        },
+        {
+          "id": "fencing-15",
+          "section": "02 · 装备与准备",
+          "speaker": "你",
+          "de": "Trainieren wir heute mit Florett, Degen oder Säbel?",
+          "en": "Are we training with foil, épée, or sabre today?"
+        },
+        {
+          "id": "fencing-16",
+          "section": "03 · 热身与听懂口令",
+          "speaker": "教练",
+          "de": "Wir wärmen uns zuerst gemeinsam auf.",
+          "en": "First, we'll warm up together."
+        },
+        {
+          "id": "fencing-17",
+          "section": "03 · 热身与听懂口令",
+          "speaker": "你",
+          "de": "Können Sie die Bewegung bitte langsam vormachen?",
+          "en": "Could you demonstrate the movement slowly?"
+        },
+        {
+          "id": "fencing-18",
+          "section": "03 · 热身与听懂口令",
+          "speaker": "教练",
+          "de": "Schau erst zu, danach bist du dran.",
+          "en": "Watch first; then it will be your turn."
+        },
+        {
+          "id": "fencing-19",
+          "section": "03 · 热身与听懂口令",
+          "speaker": "你",
+          "de": "Was bedeutet „En garde“?",
+          "en": "What does “En garde” mean?"
+        },
+        {
+          "id": "fencing-20",
+          "section": "03 · 热身与听懂口令",
+          "speaker": "教练",
+          "de": "Das heißt: Nimm die Fechtstellung ein.",
+          "en": "It means: take your fencing stance."
+        },
+        {
+          "id": "fencing-21",
+          "section": "03 · 热身与听懂口令",
+          "speaker": "你",
+          "de": "Und was mache ich bei „Halt“?",
+          "en": "And what should I do when I hear “Halt”?"
+        },
+        {
+          "id": "fencing-22",
+          "section": "03 · 热身与听懂口令",
+          "speaker": "教练",
+          "de": "Bei „Halt“ sofort aufhören und auf die nächste Anweisung warten.",
+          "en": "On “Halt,” stop immediately and wait for the next instruction."
+        },
+        {
+          "id": "fencing-23",
+          "section": "03 · 热身与听懂口令",
+          "speaker": "你",
+          "de": "Bitte sagen Sie mir, wann ich anfangen darf.",
+          "en": "Please tell me when I may begin."
+        },
+        {
+          "id": "fencing-24",
+          "section": "04 · 搭档练习与确认",
+          "speaker": "你",
+          "de": "Möchtest du mit mir üben?",
+          "en": "Would you like to practise with me?"
+        },
+        {
+          "id": "fencing-25",
+          "section": "04 · 搭档练习与确认",
+          "speaker": "搭档",
+          "de": "Gern. Sollen wir erst langsam anfangen?",
+          "en": "Sure. Shall we start slowly?"
+        },
+        {
+          "id": "fencing-26",
+          "section": "04 · 搭档练习与确认",
+          "speaker": "你",
+          "de": "Ja, bitte. Ich lerne die Schritte noch.",
+          "en": "Yes, please. I am still learning the footwork."
+        },
+        {
+          "id": "fencing-27",
+          "section": "04 · 搭档练习与确认",
+          "speaker": "你",
+          "de": "Sind wir jetzt an der Reihe?",
+          "en": "Is it our turn now?"
+        },
+        {
+          "id": "fencing-28",
+          "section": "04 · 搭档练习与确认",
+          "speaker": "你",
+          "de": "Soll ich angreifen oder verteidigen?",
+          "en": "Should I attack or defend?"
+        },
+        {
+          "id": "fencing-29",
+          "section": "04 · 搭档练习与确认",
+          "speaker": "你",
+          "de": "Habe ich den Abstand richtig eingeschätzt?",
+          "en": "Did I judge the distance correctly?"
+        },
+        {
+          "id": "fencing-30",
+          "section": "04 · 搭档练习与确认",
+          "speaker": "你",
+          "de": "War das ein Treffer?",
+          "en": "Was that a hit?"
+        },
+        {
+          "id": "fencing-31",
+          "section": "04 · 搭档练习与确认",
+          "speaker": "教练",
+          "de": "Ich erkläre euch kurz, was gerade passiert ist.",
+          "en": "I'll briefly explain what just happened."
+        },
+        {
+          "id": "fencing-32",
+          "section": "05 · 不适、没听懂与暂停",
+          "speaker": "你",
+          "de": "Ich habe die Anweisung nicht verstanden. Können Sie sie wiederholen?",
+          "en": "I didn't understand the instruction. Could you repeat it?"
+        },
+        {
+          "id": "fencing-33",
+          "section": "05 · 不适、没听懂与暂停",
+          "speaker": "你",
+          "de": "Bitte etwas langsamer. Mein Deutsch ist noch nicht so gut.",
+          "en": "A little more slowly, please. My German isn't very good yet."
+        },
+        {
+          "id": "fencing-34",
+          "section": "05 · 不适、没听懂与暂停",
+          "speaker": "你",
+          "de": "Meine Ausrüstung fühlt sich nicht richtig an. Können wir kurz stoppen?",
+          "en": "My equipment doesn't feel right. Can we stop for a moment?"
+        },
+        {
+          "id": "fencing-35",
+          "section": "05 · 不适、没听懂与暂停",
+          "speaker": "你",
+          "de": "Ich brauche eine kurze Pause.",
+          "en": "I need a short break."
+        },
+        {
+          "id": "fencing-36",
+          "section": "05 · 不适、没听懂与暂停",
+          "speaker": "你",
+          "de": "Mein Handgelenk tut weh. Ich möchte aufhören.",
+          "en": "My wrist hurts. I'd like to stop."
+        },
+        {
+          "id": "fencing-37",
+          "section": "05 · 不适、没听懂与暂停",
+          "speaker": "教练",
+          "de": "Hör bitte auf und komm zu mir.",
+          "en": "Please stop and come over to me."
+        },
+        {
+          "id": "fencing-38",
+          "section": "06 · 课后归还与下次安排",
+          "speaker": "你",
+          "de": "Wo soll ich die Ausrüstung zurückgeben?",
+          "en": "Where should I return the equipment?"
+        },
+        {
+          "id": "fencing-39",
+          "section": "06 · 课后归还与下次安排",
+          "speaker": "你",
+          "de": "Wie wird die Maske nach dem Training gereinigt?",
+          "en": "How is the mask cleaned after training?"
+        },
+        {
+          "id": "fencing-40",
+          "section": "06 · 课后归还与下次安排",
+          "speaker": "你",
+          "de": "Was sollte ich bis zum nächsten Mal wiederholen?",
+          "en": "What should I review before next time?"
+        },
+        {
+          "id": "fencing-41",
+          "section": "06 · 课后归还与下次安排",
+          "speaker": "教练",
+          "de": "Wiederhole bitte die Begriffe und die besprochenen Regeln.",
+          "en": "Please review the terms and the rules we discussed."
+        },
+        {
+          "id": "fencing-42",
+          "section": "06 · 课后归还与下次安排",
+          "speaker": "你",
+          "de": "Findet der Kurs nächste Woche zur gleichen Zeit statt?",
+          "en": "Is the class at the same time next week?"
+        },
+        {
+          "id": "fencing-43",
+          "section": "06 · 课后归还与下次安排",
+          "speaker": "你",
+          "de": "Danke für deine Hilfe. Bis nächste Woche!",
+          "en": "Thanks for your help. See you next week!"
+        }
+      ],
+      "reference": "## 课前 5 分钟\n先说：我是新手 → 确认课程 → 借装备 → 没听懂 → 请求暂停。教练用 Sie；和同学通常用 du，可跟随对方称呼。\n## 词汇链\ndas Fechten — fencing；die Maske — mask；der Handschuh — glove；das Florett — foil；der Degen — épée；der Säbel — sabre；der Treffer — hit；der Abstand — distance。\nEn garde / Prêts? / Allez / Halt 是课上可能听到的法语口令；机器朗读单独外语词可能不自然，以教练现场示范为准。\n## 句型\nKönnen Sie … prüfen / wiederholen / vormachen? 请求检查／重复／示范。\n## 课后回忆\n回想今天听懂的一条口令、没听懂的一句话。这里只练沟通，动作与防护由现场教练指导。",
+      "sources": []
+    },
+    {
+      "id": "shaolin-kempo",
+      "title": "Shaolin Kempo",
+      "zh": "少林拳法课：新手报到、搭档练习与边界表达",
+      "category": "Sport",
+      "date": "2026-09-25",
+      "updated": "2026-09-25",
+      "origin": "原创情境练习 · 根据已知活动提前准备",
+      "phrases": [
+        {
+          "id": "shaolin-kempo-0",
+          "section": "01 · 课前寻找教室",
+          "speaker": "你",
+          "de": "Entschuldigung, ist hier der Shaolin-Kempo-Kurs?",
+          "en": "Excuse me, is this the Shaolin Kempo class?"
+        },
+        {
+          "id": "shaolin-kempo-1",
+          "section": "01 · 课前寻找教室",
+          "speaker": "工作人员",
+          "de": "Bitte frag die Trainerin in der Halle.",
+          "en": "Please ask the instructor in the hall."
+        },
+        {
+          "id": "shaolin-kempo-2",
+          "section": "01 · 课前寻找教室",
+          "speaker": "你",
+          "de": "Ich bin heute zum ersten Mal dabei.",
+          "en": "This is my first session today."
+        },
+        {
+          "id": "shaolin-kempo-3",
+          "section": "01 · 课前寻找教室",
+          "speaker": "教练",
+          "de": "Herzlich willkommen! Hast du schon Erfahrung?",
+          "en": "Welcome! Do you have any experience?"
+        },
+        {
+          "id": "shaolin-kempo-4",
+          "section": "01 · 课前寻找教室",
+          "speaker": "你",
+          "de": "Nein, ich bin Anfängerin.",
+          "en": "No, I am a beginner."
+        },
+        {
+          "id": "shaolin-kempo-5",
+          "section": "01 · 课前寻找教室",
+          "speaker": "你",
+          "de": "Brauche ich für heute eine Anmeldebestätigung?",
+          "en": "Do I need a registration confirmation for today?"
+        },
+        {
+          "id": "shaolin-kempo-6",
+          "section": "01 · 课前寻找教室",
+          "speaker": "你",
+          "de": "Wo sind die Umkleiden?",
+          "en": "Where are the changing rooms?"
+        },
+        {
+          "id": "shaolin-kempo-7",
+          "section": "01 · 课前寻找教室",
+          "speaker": "你",
+          "de": "Wo darf ich meine Trinkflasche hinstellen?",
+          "en": "Where may I put my water bottle?"
+        },
+        {
+          "id": "shaolin-kempo-8",
+          "section": "02 · 着装与课堂礼仪",
+          "speaker": "你",
+          "de": "Ist diese Sportkleidung für die erste Stunde geeignet?",
+          "en": "Are these sports clothes suitable for the first class?"
+        },
+        {
+          "id": "shaolin-kempo-9",
+          "section": "02 · 着装与课堂礼仪",
+          "speaker": "你",
+          "de": "Trainieren wir barfuß oder mit Schuhen?",
+          "en": "Do we train barefoot or with shoes?"
+        },
+        {
+          "id": "shaolin-kempo-10",
+          "section": "02 · 着装与课堂礼仪",
+          "speaker": "教练",
+          "de": "Ich erkläre euch gleich die Regeln für diesen Raum.",
+          "en": "I'll explain the rules for this room in a moment."
+        },
+        {
+          "id": "shaolin-kempo-11",
+          "section": "02 · 着装与课堂礼仪",
+          "speaker": "你",
+          "de": "Soll ich meinen Schmuck ablegen?",
+          "en": "Should I take off my jewellery?"
+        },
+        {
+          "id": "shaolin-kempo-12",
+          "section": "02 · 着装与课堂礼仪",
+          "speaker": "你",
+          "de": "Gibt es eine Begrüßung, die ich kennen sollte?",
+          "en": "Is there a greeting I should know?"
+        },
+        {
+          "id": "shaolin-kempo-13",
+          "section": "02 · 着装与课堂礼仪",
+          "speaker": "教练",
+          "de": "Schau erst zu; wir zeigen dir, wie wir anfangen.",
+          "en": "Watch first; we'll show you how we begin."
+        },
+        {
+          "id": "shaolin-kempo-14",
+          "section": "03 · 热身、方向与节奏",
+          "speaker": "教练",
+          "de": "Wir beginnen mit dem Aufwärmen.",
+          "en": "We will start with the warm-up."
+        },
+        {
+          "id": "shaolin-kempo-15",
+          "section": "03 · 热身、方向与节奏",
+          "speaker": "你",
+          "de": "Soll ich auf der linken oder auf der rechten Seite stehen?",
+          "en": "Should I stand on the left or on the right?"
+        },
+        {
+          "id": "shaolin-kempo-16",
+          "section": "03 · 热身、方向与节奏",
+          "speaker": "教练",
+          "de": "Bitte lass etwas mehr Abstand.",
+          "en": "Please leave a little more space."
+        },
+        {
+          "id": "shaolin-kempo-17",
+          "section": "03 · 热身、方向与节奏",
+          "speaker": "你",
+          "de": "Meinen Sie mein linkes Bein oder Ihres?",
+          "en": "Do you mean my left leg or yours?"
+        },
+        {
+          "id": "shaolin-kempo-18",
+          "section": "03 · 热身、方向与节奏",
+          "speaker": "你",
+          "de": "Können Sie das noch einmal langsam zeigen?",
+          "en": "Could you show that slowly once more?"
+        },
+        {
+          "id": "shaolin-kempo-19",
+          "section": "03 · 热身、方向与节奏",
+          "speaker": "教练",
+          "de": "Wir machen die Übung zuerst ohne Partner.",
+          "en": "First, we'll do the exercise without a partner."
+        },
+        {
+          "id": "shaolin-kempo-20",
+          "section": "03 · 热身、方向与节奏",
+          "speaker": "你",
+          "de": "Wie viele Wiederholungen sollen wir machen?",
+          "en": "How many repetitions should we do?"
+        },
+        {
+          "id": "shaolin-kempo-21",
+          "section": "03 · 热身、方向与节奏",
+          "speaker": "你",
+          "de": "Soll ich jetzt die Seite wechseln?",
+          "en": "Should I switch sides now?"
+        },
+        {
+          "id": "shaolin-kempo-22",
+          "section": "04 · 搭档与接触边界",
+          "speaker": "你",
+          "de": "Hast du schon eine Partnerin oder einen Partner?",
+          "en": "Do you already have a partner?"
+        },
+        {
+          "id": "shaolin-kempo-23",
+          "section": "04 · 搭档与接触边界",
+          "speaker": "搭档",
+          "de": "Nein. Wir können zusammen üben.",
+          "en": "No. We can practise together."
+        },
+        {
+          "id": "shaolin-kempo-24",
+          "section": "04 · 搭档与接触边界",
+          "speaker": "你",
+          "de": "Können wir langsam und ohne Kontakt anfangen?",
+          "en": "Can we start slowly and without contact?"
+        },
+        {
+          "id": "shaolin-kempo-25",
+          "section": "04 · 搭档与接触边界",
+          "speaker": "搭档",
+          "de": "Ja, lass uns vorher die Trainerin fragen.",
+          "en": "Yes, let's ask the instructor first."
+        },
+        {
+          "id": "shaolin-kempo-26",
+          "section": "04 · 搭档与接触边界",
+          "speaker": "你",
+          "de": "Wie viel Kontakt ist bei dieser Übung vorgesehen?",
+          "en": "How much contact is intended in this exercise?"
+        },
+        {
+          "id": "shaolin-kempo-27",
+          "section": "04 · 搭档与接触边界",
+          "speaker": "你",
+          "de": "Welches Zeichen benutzen wir, wenn wir stoppen möchten?",
+          "en": "What signal do we use when we want to stop?"
+        },
+        {
+          "id": "shaolin-kempo-28",
+          "section": "04 · 搭档与接触边界",
+          "speaker": "你",
+          "de": "Stopp, das ist mir zu fest.",
+          "en": "Stop, that is too hard for me."
+        },
+        {
+          "id": "shaolin-kempo-29",
+          "section": "04 · 搭档与接触边界",
+          "speaker": "搭档",
+          "de": "Alles klar. Wir machen eine Pause.",
+          "en": "All right. Let's take a break."
+        },
+        {
+          "id": "shaolin-kempo-30",
+          "section": "05 · 困难与调整",
+          "speaker": "你",
+          "de": "Ich kann die Bewegung noch nicht gut koordinieren.",
+          "en": "I can't coordinate the movement well yet."
+        },
+        {
+          "id": "shaolin-kempo-31",
+          "section": "05 · 困难与调整",
+          "speaker": "你",
+          "de": "Kann ich erst zuschauen und dann mitmachen?",
+          "en": "Can I watch first and join in afterwards?"
+        },
+        {
+          "id": "shaolin-kempo-32",
+          "section": "05 · 困难与调整",
+          "speaker": "你",
+          "de": "Gibt es eine leichtere Variante?",
+          "en": "Is there an easier version?"
+        },
+        {
+          "id": "shaolin-kempo-33",
+          "section": "05 · 困难与调整",
+          "speaker": "教练",
+          "de": "Wir passen die Übung gemeinsam an.",
+          "en": "We'll adapt the exercise together."
+        },
+        {
+          "id": "shaolin-kempo-34",
+          "section": "05 · 困难与调整",
+          "speaker": "你",
+          "de": "Mein Knie tut weh. Ich möchte diese Übung auslassen.",
+          "en": "My knee hurts. I'd like to skip this exercise."
+        },
+        {
+          "id": "shaolin-kempo-35",
+          "section": "05 · 困难与调整",
+          "speaker": "你",
+          "de": "Darf ich kurz etwas trinken?",
+          "en": "May I have a quick drink?"
+        },
+        {
+          "id": "shaolin-kempo-36",
+          "section": "06 · 课后反馈与下次准备",
+          "speaker": "你",
+          "de": "Danke, das war neu für mich.",
+          "en": "Thank you; that was new to me."
+        },
+        {
+          "id": "shaolin-kempo-37",
+          "section": "06 · 课后反馈与下次准备",
+          "speaker": "你",
+          "de": "Wie heißt die Übung, die wir zuletzt gemacht haben?",
+          "en": "What is the name of the exercise we did last?"
+        },
+        {
+          "id": "shaolin-kempo-38",
+          "section": "06 · 课后反馈与下次准备",
+          "speaker": "你",
+          "de": "Können Sie mir den Namen aufschreiben?",
+          "en": "Could you write the name down for me?"
+        },
+        {
+          "id": "shaolin-kempo-39",
+          "section": "06 · 课后反馈与下次准备",
+          "speaker": "你",
+          "de": "Was soll ich zum nächsten Training mitbringen?",
+          "en": "What should I bring to the next session?"
+        },
+        {
+          "id": "shaolin-kempo-40",
+          "section": "06 · 课后反馈与下次准备",
+          "speaker": "你",
+          "de": "Muss ich mich jede Woche neu anmelden?",
+          "en": "Do I need to register again every week?"
+        },
+        {
+          "id": "shaolin-kempo-41",
+          "section": "06 · 课后反馈与下次准备",
+          "speaker": "搭档",
+          "de": "Bis zum nächsten Training!",
+          "en": "See you at the next session!"
+        }
+      ],
+      "reference": "## 课前重点\n自我介绍、着装规则、方向确认、请求慢练、清楚说 Stopp。不要假设课程一定赤脚、一定有接触或一定需要制服，向教练确认。\n## 词汇链\ndie Umkleide — changing room；barfuß — barefoot；der Abstand — distance；die Wiederholung — repetition；die Seite wechseln — switch sides；ohne Kontakt — without contact；auslassen — skip。\n## 句型\nKönnen wir … anfangen? / Darf ich …? / Gibt es eine leichtere Variante?\n## 课后回忆\n把今天一个动作的名字写下来，用 Ich habe heute … gelernt. 描述学到的内容。按教练现场规则练习，不根据文本自行练动作。",
+      "sources": []
+    },
+    {
+      "id": "archery",
+      "title": "Bogenschießen · Archery",
+      "zh": "射箭课：装备确认、安全口令与课后交流",
+      "category": "Sport",
+      "date": "2026-09-25",
+      "updated": "2026-09-25",
+      "origin": "原创情境练习 · 根据已知活动提前准备",
+      "phrases": [
+        {
+          "id": "archery-0",
+          "section": "01 · 到达与报到",
+          "speaker": "你",
+          "de": "Entschuldigung, wo ist der Treffpunkt für den Bogenschießkurs?",
+          "en": "Excuse me, where is the meeting point for the archery class?"
+        },
+        {
+          "id": "archery-1",
+          "section": "01 · 到达与报到",
+          "speaker": "工作人员",
+          "de": "Bitte melde dich zuerst bei der Kursleitung.",
+          "en": "Please check in with the instructor first."
+        },
+        {
+          "id": "archery-2",
+          "section": "01 · 到达与报到",
+          "speaker": "你",
+          "de": "Ich habe mich für den Anfängerkurs angemeldet.",
+          "en": "I registered for the beginners' class."
+        },
+        {
+          "id": "archery-3",
+          "section": "01 · 到达与报到",
+          "speaker": "教练",
+          "de": "Warst du schon einmal beim Bogenschießen?",
+          "en": "Have you ever tried archery before?"
+        },
+        {
+          "id": "archery-4",
+          "section": "01 · 到达与报到",
+          "speaker": "你",
+          "de": "Nein, das ist mein erstes Mal.",
+          "en": "No, this is my first time."
+        },
+        {
+          "id": "archery-5",
+          "section": "01 · 到达与报到",
+          "speaker": "你",
+          "de": "Findet das Training heute drinnen oder draußen statt?",
+          "en": "Is today's training indoors or outdoors?"
+        },
+        {
+          "id": "archery-6",
+          "section": "01 · 到达与报到",
+          "speaker": "你",
+          "de": "Wo soll ich warten, bis der Kurs beginnt?",
+          "en": "Where should I wait until the class starts?"
+        },
+        {
+          "id": "archery-7",
+          "section": "01 · 到达与报到",
+          "speaker": "你",
+          "de": "Gibt es vor dem Start eine Sicherheitseinweisung?",
+          "en": "Is there a safety briefing before we start?"
+        },
+        {
+          "id": "archery-8",
+          "section": "02 · 装备由教练检查",
+          "speaker": "你",
+          "de": "Kann ich einen Bogen und Pfeile ausleihen?",
+          "en": "Can I borrow a bow and arrows?"
+        },
+        {
+          "id": "archery-9",
+          "section": "02 · 装备由教练检查",
+          "speaker": "教练",
+          "de": "Wir suchen gemeinsam passende Ausrüstung aus.",
+          "en": "We'll choose suitable equipment together."
+        },
+        {
+          "id": "archery-10",
+          "section": "02 · 装备由教练检查",
+          "speaker": "你",
+          "de": "Ich bin Rechtshänderin. Welcher Bogen passt zu mir?",
+          "en": "I am right-handed. Which bow is suitable for me?"
+        },
+        {
+          "id": "archery-11",
+          "section": "02 · 装备由教练检查",
+          "speaker": "你",
+          "de": "Brauche ich einen Armschutz und einen Fingerschutz?",
+          "en": "Do I need an armguard and finger protection?"
+        },
+        {
+          "id": "archery-12",
+          "section": "02 · 装备由教练检查",
+          "speaker": "你",
+          "de": "Können Sie bitte prüfen, ob der Armschutz richtig sitzt?",
+          "en": "Could you check whether the armguard fits correctly?"
+        },
+        {
+          "id": "archery-13",
+          "section": "02 · 装备由教练检查",
+          "speaker": "你",
+          "de": "Der Bogen fühlt sich für mich zu schwer an.",
+          "en": "The bow feels too heavy for me."
+        },
+        {
+          "id": "archery-14",
+          "section": "02 · 装备由教练检查",
+          "speaker": "教练",
+          "de": "Bitte warte, bis ich alles geprüft habe.",
+          "en": "Please wait until I have checked everything."
+        },
+        {
+          "id": "archery-15",
+          "section": "02 · 装备由教练检查",
+          "speaker": "你",
+          "de": "Wo lege ich die Pfeile ab, solange ich warte?",
+          "en": "Where should I put the arrows while I wait?"
+        },
+        {
+          "id": "archery-16",
+          "section": "03 · 口令与等待",
+          "speaker": "你",
+          "de": "Welches Kommando bedeutet, dass ich anfangen darf?",
+          "en": "Which command means I may begin?"
+        },
+        {
+          "id": "archery-17",
+          "section": "03 · 口令与等待",
+          "speaker": "你",
+          "de": "Was bedeutet das Stoppsignal genau?",
+          "en": "What exactly does the stop signal mean?"
+        },
+        {
+          "id": "archery-18",
+          "section": "03 · 口令与等待",
+          "speaker": "教练",
+          "de": "Wenn du unsicher bist, frag bitte sofort nach.",
+          "en": "If you are unsure, please ask immediately."
+        },
+        {
+          "id": "archery-19",
+          "section": "03 · 口令与等待",
+          "speaker": "你",
+          "de": "Darf ich jetzt an die Schießlinie gehen?",
+          "en": "May I go to the shooting line now?"
+        },
+        {
+          "id": "archery-20",
+          "section": "03 · 口令与等待",
+          "speaker": "教练",
+          "de": "Noch nicht. Bitte warte auf meine Anweisung.",
+          "en": "Not yet. Please wait for my instruction."
+        },
+        {
+          "id": "archery-21",
+          "section": "03 · 口令与等待",
+          "speaker": "你",
+          "de": "Können Sie mir zeigen, wo ich sicher stehen kann?",
+          "en": "Could you show me where I can stand safely?"
+        },
+        {
+          "id": "archery-22",
+          "section": "03 · 口令与等待",
+          "speaker": "你",
+          "de": "Ich habe das Kommando nicht verstanden. Bitte wiederholen Sie es.",
+          "en": "I didn't understand the command. Please repeat it."
+        },
+        {
+          "id": "archery-23",
+          "section": "03 · 口令与等待",
+          "speaker": "你",
+          "de": "Ich warte, bis Sie mir Bescheid geben.",
+          "en": "I'll wait until you let me know."
+        },
+        {
+          "id": "archery-24",
+          "section": "04 · 练习时的反馈",
+          "speaker": "你",
+          "de": "Können Sie meine Haltung kontrollieren?",
+          "en": "Could you check my posture?"
+        },
+        {
+          "id": "archery-25",
+          "section": "04 · 练习时的反馈",
+          "speaker": "你",
+          "de": "Ist der Abstand zu den anderen groß genug?",
+          "en": "Is there enough space between me and the others?"
+        },
+        {
+          "id": "archery-26",
+          "section": "04 · 练习时的反馈",
+          "speaker": "你",
+          "de": "Können Sie das bitte noch einmal vormachen?",
+          "en": "Could you demonstrate that once more?"
+        },
+        {
+          "id": "archery-27",
+          "section": "04 · 练习时的反馈",
+          "speaker": "你",
+          "de": "Meine Hand wird müde. Ich brauche eine Pause.",
+          "en": "My hand is getting tired. I need a break."
+        },
+        {
+          "id": "archery-28",
+          "section": "04 · 练习时的反馈",
+          "speaker": "你",
+          "de": "Mit meiner Ausrüstung stimmt etwas nicht.",
+          "en": "Something is wrong with my equipment."
+        },
+        {
+          "id": "archery-29",
+          "section": "04 · 练习时的反馈",
+          "speaker": "教练",
+          "de": "Bitte hör auf und warte, ich komme zu dir.",
+          "en": "Please stop and wait; I'll come to you."
+        },
+        {
+          "id": "archery-30",
+          "section": "04 · 练习时的反馈",
+          "speaker": "你",
+          "de": "Ich möchte heute lieber nur zuschauen.",
+          "en": "I'd prefer just to watch today."
+        },
+        {
+          "id": "archery-31",
+          "section": "04 · 练习时的反馈",
+          "speaker": "教练",
+          "de": "Das ist in Ordnung. Ich zeige dir einen sicheren Platz.",
+          "en": "That's fine. I'll show you a safe place."
+        },
+        {
+          "id": "archery-32",
+          "section": "05 · 取箭前明确确认",
+          "speaker": "你",
+          "de": "Dürfen wir die Pfeile jetzt holen?",
+          "en": "May we collect the arrows now?"
+        },
+        {
+          "id": "archery-33",
+          "section": "05 · 取箭前明确确认",
+          "speaker": "教练",
+          "de": "Bitte wartet, bis ich das ausdrücklich freigebe.",
+          "en": "Please wait until I explicitly give permission."
+        },
+        {
+          "id": "archery-34",
+          "section": "05 · 取箭前明确确认",
+          "speaker": "你",
+          "de": "Ist das Schießen für alle beendet?",
+          "en": "Has everyone finished shooting?"
+        },
+        {
+          "id": "archery-35",
+          "section": "05 · 取箭前明确确认",
+          "speaker": "你",
+          "de": "Können Sie mir zeigen, wie wir die Pfeile sicher zurückbringen?",
+          "en": "Could you show me how we bring the arrows back safely?"
+        },
+        {
+          "id": "archery-36",
+          "section": "05 · 取箭前明确确认",
+          "speaker": "你",
+          "de": "Ein Pfeil liegt neben der Scheibe. Was soll ich tun?",
+          "en": "An arrow is next to the target. What should I do?"
+        },
+        {
+          "id": "archery-37",
+          "section": "05 · 取箭前明确确认",
+          "speaker": "教练",
+          "de": "Bleib bitte hier. Ich kümmere mich darum.",
+          "en": "Please stay here. I'll take care of it."
+        },
+        {
+          "id": "archery-38",
+          "section": "06 · 收尾与复盘",
+          "speaker": "你",
+          "de": "Wo wird die Ausrüstung nach dem Kurs abgegeben?",
+          "en": "Where do we return the equipment after the class?"
+        },
+        {
+          "id": "archery-39",
+          "section": "06 · 收尾与复盘",
+          "speaker": "你",
+          "de": "Wie heißt die Zielscheibe auf Deutsch?",
+          "en": "What is the German word for the target?"
+        },
+        {
+          "id": "archery-40",
+          "section": "06 · 收尾与复盘",
+          "speaker": "教练",
+          "de": "Man sagt „die Zielscheibe“ oder kurz „die Scheibe“.",
+          "en": "We say “die Zielscheibe,” or “die Scheibe” for short."
+        },
+        {
+          "id": "archery-41",
+          "section": "06 · 收尾与复盘",
+          "speaker": "你",
+          "de": "Welche Regeln soll ich mir besonders merken?",
+          "en": "Which rules should I remember especially well?"
+        },
+        {
+          "id": "archery-42",
+          "section": "06 · 收尾与复盘",
+          "speaker": "你",
+          "de": "Muss ich für nächste Woche wieder einen Platz buchen?",
+          "en": "Do I need to book a place again for next week?"
+        },
+        {
+          "id": "archery-43",
+          "section": "06 · 收尾与复盘",
+          "speaker": "你",
+          "de": "Vielen Dank für die Einführung!",
+          "en": "Thank you very much for the introduction!"
+        }
+      ],
+      "reference": "## 课前重点\n提前会说：第一次来、请检查装备、没听懂口令、需要暂停、是否可以取箭。具体口令、站位和器材操作以教练现场指令为准；练习句不是操作指南。\n## 词汇链\nder Bogen — bow；der Pfeil — arrow；die Sehne — bowstring；der Armschutz — armguard；die Schießlinie — shooting line；die Zielscheibe — target；die Freigabe — permission / all-clear。\n## 句型\nDarf ich …? / Dürfen wir …? 问是否允许；Noch nicht. 表示还不可以。\n## 课后回忆\n不看英文解释三条课堂口令。分清 Können（能不能）和 Dürfen（是否被允许）。",
+      "sources": []
+    },
+    {
+      "id": "enschede",
+      "title": "Enschede · Wochenendausflug",
+      "zh": "恩斯赫德周六游：跨境交通、市场、逛街与返程",
+      "category": "Travel",
+      "date": "2026-09-25",
+      "updated": "2026-09-25",
+      "origin": "原创情境练习 · 根据已知活动提前准备",
+      "phrases": [
+        {
+          "id": "enschede-0",
+          "section": "01 · 出发前确认车票",
+          "speaker": "你",
+          "de": "Ich möchte nach Enschede fahren. Welche Verbindung passt heute?",
+          "en": "I'd like to go to Enschede. Which connection works today?"
+        },
+        {
+          "id": "enschede-1",
+          "section": "01 · 出发前确认车票",
+          "speaker": "你",
+          "de": "Muss ich unterwegs umsteigen?",
+          "en": "Do I need to change trains on the way?"
+        },
+        {
+          "id": "enschede-2",
+          "section": "01 · 出发前确认车票",
+          "speaker": "你",
+          "de": "Gilt mein Ticket auf der ganzen Strecke bis Enschede?",
+          "en": "Is my ticket valid for the whole journey to Enschede?"
+        },
+        {
+          "id": "enschede-3",
+          "section": "01 · 出发前确认车票",
+          "speaker": "工作人员",
+          "de": "Bitte zeigen Sie mir Ihr Ticket und die Verbindung.",
+          "en": "Please show me your ticket and the connection."
+        },
+        {
+          "id": "enschede-4",
+          "section": "01 · 出发前确认车票",
+          "speaker": "你",
+          "de": "Brauche ich für einen Teil der Strecke ein zusätzliches Ticket?",
+          "en": "Do I need an additional ticket for part of the journey?"
+        },
+        {
+          "id": "enschede-5",
+          "section": "01 · 出发前确认车票",
+          "speaker": "你",
+          "de": "Gibt es heute Änderungen oder Ersatzbusse?",
+          "en": "Are there any changes or replacement buses today?"
+        },
+        {
+          "id": "enschede-6",
+          "section": "01 · 出发前确认车票",
+          "speaker": "你",
+          "de": "Von welchem Gleis fährt der Zug ab?",
+          "en": "Which platform does the train leave from?"
+        },
+        {
+          "id": "enschede-7",
+          "section": "01 · 出发前确认车票",
+          "speaker": "你",
+          "de": "Wo finde ich die aktuellen Abfahrtszeiten für die Rückfahrt?",
+          "en": "Where can I find the current departure times for the return journey?"
+        },
+        {
+          "id": "enschede-8",
+          "section": "02 · 到达与选择沟通语言",
+          "speaker": "你",
+          "de": "Entschuldigung, sprechen Sie Deutsch oder Englisch?",
+          "en": "Excuse me, do you speak German or English?"
+        },
+        {
+          "id": "enschede-9",
+          "section": "02 · 到达与选择沟通语言",
+          "speaker": "对方",
+          "de": "Wir können gern Englisch sprechen.",
+          "en": "We can speak English."
+        },
+        {
+          "id": "enschede-10",
+          "section": "02 · 到达与选择沟通语言",
+          "speaker": "你",
+          "de": "Ich bin heute zum ersten Mal in Enschede.",
+          "en": "This is my first time in Enschede today."
+        },
+        {
+          "id": "enschede-11",
+          "section": "02 · 到达与选择沟通语言",
+          "speaker": "你",
+          "de": "Wie komme ich zu Fuß ins Stadtzentrum?",
+          "en": "How do I get to the city centre on foot?"
+        },
+        {
+          "id": "enschede-12",
+          "section": "02 · 到达与选择沟通语言",
+          "speaker": "对方",
+          "de": "Ich zeige Ihnen den Weg auf der Karte.",
+          "en": "I'll show you the way on the map."
+        },
+        {
+          "id": "enschede-13",
+          "section": "02 · 到达与选择沟通语言",
+          "speaker": "你",
+          "de": "Ist das weit von hier?",
+          "en": "Is it far from here?"
+        },
+        {
+          "id": "enschede-14",
+          "section": "02 · 到达与选择沟通语言",
+          "speaker": "你",
+          "de": "Wie komme ich zum Oude Markt?",
+          "en": "How do I get to the Oude Markt?"
+        },
+        {
+          "id": "enschede-15",
+          "section": "02 · 到达与选择沟通语言",
+          "speaker": "你",
+          "de": "Könnten Sie mir die Richtung zeigen?",
+          "en": "Could you point me in the right direction?"
+        },
+        {
+          "id": "enschede-16",
+          "section": "03 · 周六市场问答",
+          "speaker": "你",
+          "de": "Findet der Markt heute hier statt?",
+          "en": "Is the market taking place here today?"
+        },
+        {
+          "id": "enschede-17",
+          "section": "03 · 周六市场问答",
+          "speaker": "摊主",
+          "de": "Bitte schauen Sie auch auf die aktuellen Hinweise vor Ort.",
+          "en": "Please also check the current notices here."
+        },
+        {
+          "id": "enschede-18",
+          "section": "03 · 周六市场问答",
+          "speaker": "你",
+          "de": "Was kostet ein halbes Kilo von diesen Äpfeln?",
+          "en": "How much is half a kilo of these apples?"
+        },
+        {
+          "id": "enschede-19",
+          "section": "03 · 周六市场问答",
+          "speaker": "摊主",
+          "de": "Der Kilopreis steht auf dem Schild.",
+          "en": "The price per kilo is on the sign."
+        },
+        {
+          "id": "enschede-20",
+          "section": "03 · 周六市场问答",
+          "speaker": "你",
+          "de": "Kann ich auch eine kleinere Menge kaufen?",
+          "en": "Can I buy a smaller amount too?"
+        },
+        {
+          "id": "enschede-21",
+          "section": "03 · 周六市场问答",
+          "speaker": "你",
+          "de": "Darf ich das probieren?",
+          "en": "May I try this?"
+        },
+        {
+          "id": "enschede-22",
+          "section": "03 · 周六市场问答",
+          "speaker": "你",
+          "de": "Kann ich mit Karte bezahlen?",
+          "en": "Can I pay by card?"
+        },
+        {
+          "id": "enschede-23",
+          "section": "03 · 周六市场问答",
+          "speaker": "你",
+          "de": "Ich brauche keine Tüte, danke.",
+          "en": "I don't need a bag, thank you."
+        },
+        {
+          "id": "enschede-24",
+          "section": "04 · 逛店与用餐",
+          "speaker": "你",
+          "de": "Haben Sie das auch in einer anderen Größe?",
+          "en": "Do you have this in another size?"
+        },
+        {
+          "id": "enschede-25",
+          "section": "04 · 逛店与用餐",
+          "speaker": "你",
+          "de": "Wo kann ich das anprobieren?",
+          "en": "Where can I try this on?"
+        },
+        {
+          "id": "enschede-26",
+          "section": "04 · 逛店与用餐",
+          "speaker": "你",
+          "de": "Ich schaue mich erst einmal um, danke.",
+          "en": "I'm just looking around for now, thank you."
+        },
+        {
+          "id": "enschede-27",
+          "section": "04 · 逛店与用餐",
+          "speaker": "你",
+          "de": "Haben Sie einen Tisch für eine Person?",
+          "en": "Do you have a table for one?"
+        },
+        {
+          "id": "enschede-28",
+          "section": "04 · 逛店与用餐",
+          "speaker": "服务员",
+          "de": "Möchten Sie drinnen oder draußen sitzen?",
+          "en": "Would you like to sit inside or outside?"
+        },
+        {
+          "id": "enschede-29",
+          "section": "04 · 逛店与用餐",
+          "speaker": "你",
+          "de": "Was ist in diesem Gericht enthalten?",
+          "en": "What is in this dish?"
+        },
+        {
+          "id": "enschede-30",
+          "section": "04 · 逛店与用餐",
+          "speaker": "你",
+          "de": "Ist das vegetarisch?",
+          "en": "Is this vegetarian?"
+        },
+        {
+          "id": "enschede-31",
+          "section": "04 · 逛店与用餐",
+          "speaker": "你",
+          "de": "Kann ich bitte die Rechnung bekommen?",
+          "en": "Could I have the bill, please?"
+        },
+        {
+          "id": "enschede-32",
+          "section": "05 · 临时问题与返程",
+          "speaker": "你",
+          "de": "Entschuldigung, wo ist die nächste öffentliche Toilette?",
+          "en": "Excuse me, where is the nearest public toilet?"
+        },
+        {
+          "id": "enschede-33",
+          "section": "05 · 临时问题与返程",
+          "speaker": "你",
+          "de": "Mein Handy hat fast keinen Akku mehr. Darf ich es hier aufladen?",
+          "en": "My phone is almost out of battery. May I charge it here?"
+        },
+        {
+          "id": "enschede-34",
+          "section": "05 · 临时问题与返程",
+          "speaker": "你",
+          "de": "Ich suche den Bahnhof. Bin ich hier richtig?",
+          "en": "I'm looking for the station. Am I going the right way?"
+        },
+        {
+          "id": "enschede-35",
+          "section": "05 · 临时问题与返程",
+          "speaker": "你",
+          "de": "Fährt dieser Zug in Richtung Deutschland?",
+          "en": "Is this train heading towards Germany?"
+        },
+        {
+          "id": "enschede-36",
+          "section": "05 · 临时问题与返程",
+          "speaker": "工作人员",
+          "de": "Bitte prüfen Sie das Ziel auf der Anzeige.",
+          "en": "Please check the destination on the display."
+        },
+        {
+          "id": "enschede-37",
+          "section": "05 · 临时问题与返程",
+          "speaker": "你",
+          "de": "Mein Zug fällt aus. Welche Alternative gibt es?",
+          "en": "My train has been cancelled. What alternative is there?"
+        },
+        {
+          "id": "enschede-38",
+          "section": "05 · 临时问题与返程",
+          "speaker": "你",
+          "de": "Gilt mein Ticket auch für diese Verbindung?",
+          "en": "Is my ticket valid for this connection too?"
+        },
+        {
+          "id": "enschede-39",
+          "section": "05 · 临时问题与返程",
+          "speaker": "你",
+          "de": "Danke für Ihre Hilfe. Einen schönen Tag noch!",
+          "en": "Thank you for your help. Have a lovely day!"
+        }
+      ],
+      "reference": "## 语言选择\nEnschede 在荷兰。德语用于出发段和愿意讲德语的对话；English 对照也是可直接使用的英文版本，不要假设当地人都会德语。可说 Hello / Thank you，或简单荷兰语 Hallo / Dank u wel。网站朗读按钮仍只读德语。\n## 提前 5 分钟\n确认全程票是否有效 → 找到中心／Oude Markt → 问价格 → 付款 → 找到返程站台。\n## 词汇链\ndie Verbindung — connection；umsteigen — change trains；gültig — valid；die Rückfahrt — return journey；der Markt — market；eine kleinere Menge — a smaller amount。\n## 行程事实与示例的边界\n城市旅游局介绍周六市场和 Oude Markt。具体班次、票种适用范围及当天市场是否营业需出发前核对；本页没有预订、票价或保证可用的路线。问答中的回答是模拟分支。\n## 课后回忆\n用英语复述你在市场问了什么，再尝试换成德语。",
+      "sources": [
+        {
+          "title": "Enschede 官方旅游：城市与周六市场",
+          "url": "https://www.visit-enschede.com/blog-overview/unique-enschede"
+        },
+        {
+          "title": "Enschede 官方旅游：Oude Markt",
+          "url": "https://www.stadtenschede.de/standorte/oude-markt"
+        }
+      ]
+    },
+    {
+      "id": "cologne",
+      "title": "Köln · Sonntagsausflug",
+      "zh": "科隆周日游：交通、主教座堂、莱茵河与返程",
+      "category": "Travel",
+      "date": "2026-09-25",
+      "updated": "2026-09-25",
+      "origin": "原创情境练习 · 根据已知活动提前准备",
+      "phrases": [
+        {
+          "id": "cologne-0",
+          "section": "01 · 出发与车次确认",
+          "speaker": "你",
+          "de": "Ich möchte am Sonntag nach Köln fahren.",
+          "en": "I'd like to travel to Cologne on Sunday."
+        },
+        {
+          "id": "cologne-1",
+          "section": "01 · 出发与车次确认",
+          "speaker": "你",
+          "de": "Fährt dieser Zug nach Köln Hauptbahnhof?",
+          "en": "Does this train go to Cologne Central Station?"
+        },
+        {
+          "id": "cologne-2",
+          "section": "01 · 出发与车次确认",
+          "speaker": "你",
+          "de": "Muss ich umsteigen, oder fährt der Zug direkt?",
+          "en": "Do I need to change, or is the train direct?"
+        },
+        {
+          "id": "cologne-3",
+          "section": "01 · 出发与车次确认",
+          "speaker": "你",
+          "de": "Gilt mein Ticket in diesem Zug?",
+          "en": "Is my ticket valid on this train?"
+        },
+        {
+          "id": "cologne-4",
+          "section": "01 · 出发与车次确认",
+          "speaker": "工作人员",
+          "de": "Bitte zeigen Sie mir Ihr Ticket.",
+          "en": "Please show me your ticket."
+        },
+        {
+          "id": "cologne-5",
+          "section": "01 · 出发与车次确认",
+          "speaker": "你",
+          "de": "Brauche ich für den ICE eine andere Fahrkarte?",
+          "en": "Do I need a different ticket for the ICE?"
+        },
+        {
+          "id": "cologne-6",
+          "section": "01 · 出发与车次确认",
+          "speaker": "你",
+          "de": "Gibt es heute Bauarbeiten auf der Strecke?",
+          "en": "Are there engineering works on the route today?"
+        },
+        {
+          "id": "cologne-7",
+          "section": "01 · 出发与车次确认",
+          "speaker": "你",
+          "de": "Wie finde ich eine passende Rückfahrt?",
+          "en": "How do I find a suitable return connection?"
+        },
+        {
+          "id": "cologne-8",
+          "section": "02 · 到站与问路",
+          "speaker": "你",
+          "de": "Welcher Ausgang führt zum Dom?",
+          "en": "Which exit leads to the cathedral?"
+        },
+        {
+          "id": "cologne-9",
+          "section": "02 · 到站与问路",
+          "speaker": "路人",
+          "de": "Folgen Sie bitte den Schildern zum Dom.",
+          "en": "Please follow the signs to the cathedral."
+        },
+        {
+          "id": "cologne-10",
+          "section": "02 · 到站与问路",
+          "speaker": "你",
+          "de": "Wo ist die Tourist-Information?",
+          "en": "Where is the tourist information office?"
+        },
+        {
+          "id": "cologne-11",
+          "section": "02 · 到站与问路",
+          "speaker": "你",
+          "de": "Haben Sie einen Stadtplan?",
+          "en": "Do you have a city map?"
+        },
+        {
+          "id": "cologne-12",
+          "section": "02 · 到站与问路",
+          "speaker": "你",
+          "de": "Wie komme ich von hier in die Altstadt?",
+          "en": "How do I get to the old town from here?"
+        },
+        {
+          "id": "cologne-13",
+          "section": "02 · 到站与问路",
+          "speaker": "你",
+          "de": "Kann ich zu Fuß zum Rhein gehen?",
+          "en": "Can I walk to the Rhine?"
+        },
+        {
+          "id": "cologne-14",
+          "section": "02 · 到站与问路",
+          "speaker": "路人",
+          "de": "Ich zeige Ihnen die Richtung.",
+          "en": "I'll show you the direction."
+        },
+        {
+          "id": "cologne-15",
+          "section": "02 · 到站与问路",
+          "speaker": "你",
+          "de": "Wo kann ich mein Gepäck für ein paar Stunden aufbewahren?",
+          "en": "Where can I store my luggage for a few hours?"
+        },
+        {
+          "id": "cologne-16",
+          "section": "03 · 主教座堂参观前询问",
+          "speaker": "你",
+          "de": "Ist der Dom gerade für Besichtigungen geöffnet?",
+          "en": "Is the cathedral open for sightseeing right now?"
+        },
+        {
+          "id": "cologne-17",
+          "section": "03 · 主教座堂参观前询问",
+          "speaker": "工作人员",
+          "de": "Bitte beachten Sie die Hinweise am Eingang.",
+          "en": "Please check the notices at the entrance."
+        },
+        {
+          "id": "cologne-18",
+          "section": "03 · 主教座堂参观前询问",
+          "speaker": "你",
+          "de": "Findet gerade ein Gottesdienst statt?",
+          "en": "Is a church service taking place right now?"
+        },
+        {
+          "id": "cologne-19",
+          "section": "03 · 主教座堂参观前询问",
+          "speaker": "你",
+          "de": "Brauche ich für die Besichtigung ein Ticket?",
+          "en": "Do I need a ticket for the visit?"
+        },
+        {
+          "id": "cologne-20",
+          "section": "03 · 主教座堂参观前询问",
+          "speaker": "你",
+          "de": "Wo kann ich ein Ticket kaufen?",
+          "en": "Where can I buy a ticket?"
+        },
+        {
+          "id": "cologne-21",
+          "section": "03 · 主教座堂参观前询问",
+          "speaker": "你",
+          "de": "Gilt dieses Ticket auch für den Turm oder die Schatzkammer?",
+          "en": "Is this ticket also valid for the tower or the treasury?"
+        },
+        {
+          "id": "cologne-22",
+          "section": "03 · 主教座堂参观前询问",
+          "speaker": "工作人员",
+          "de": "Das hängt vom Ticket ab. Ich erkläre Ihnen die Optionen.",
+          "en": "That depends on the ticket. I'll explain the options."
+        },
+        {
+          "id": "cologne-23",
+          "section": "03 · 主教座堂参观前询问",
+          "speaker": "你",
+          "de": "Gibt es eine Führung auf Englisch?",
+          "en": "Is there a guided tour in English?"
+        },
+        {
+          "id": "cologne-24",
+          "section": "03 · 主教座堂参观前询问",
+          "speaker": "你",
+          "de": "Darf ich hier fotografieren?",
+          "en": "May I take photos here?"
+        },
+        {
+          "id": "cologne-25",
+          "section": "03 · 主教座堂参观前询问",
+          "speaker": "你",
+          "de": "Gibt es etwas, das ich bei der Kleidung beachten muss?",
+          "en": "Is there anything I should bear in mind about clothing?"
+        },
+        {
+          "id": "cologne-26",
+          "section": "04 · 市内交通与莱茵河",
+          "speaker": "你",
+          "de": "Welche Bahn fährt in diese Richtung?",
+          "en": "Which tram or train goes in this direction?"
+        },
+        {
+          "id": "cologne-27",
+          "section": "04 · 市内交通与莱茵河",
+          "speaker": "你",
+          "de": "Wo muss ich aussteigen?",
+          "en": "Where should I get off?"
+        },
+        {
+          "id": "cologne-28",
+          "section": "04 · 市内交通与莱茵河",
+          "speaker": "你",
+          "de": "Ist diese Haltestelle barrierefrei erreichbar?",
+          "en": "Is this stop accessible without steps?"
+        },
+        {
+          "id": "cologne-29",
+          "section": "04 · 市内交通与莱茵河",
+          "speaker": "你",
+          "de": "Muss ich dieses Ticket vor der Fahrt entwerten?",
+          "en": "Do I need to validate this ticket before travelling?"
+        },
+        {
+          "id": "cologne-30",
+          "section": "04 · 市内交通与莱茵河",
+          "speaker": "你",
+          "de": "Wie komme ich zur Rheinpromenade?",
+          "en": "How do I get to the Rhine promenade?"
+        },
+        {
+          "id": "cologne-31",
+          "section": "04 · 市内交通与莱茵河",
+          "speaker": "你",
+          "de": "Kann man hier auf die andere Rheinseite gehen?",
+          "en": "Can you walk to the other side of the Rhine here?"
+        },
+        {
+          "id": "cologne-32",
+          "section": "04 · 市内交通与莱茵河",
+          "speaker": "你",
+          "de": "Ist dieser Weg für Fußgänger geöffnet?",
+          "en": "Is this path open to pedestrians?"
+        },
+        {
+          "id": "cologne-33",
+          "section": "04 · 市内交通与莱茵河",
+          "speaker": "你",
+          "de": "Könnten Sie bitte ein Foto von mir machen?",
+          "en": "Could you take a photo of me, please?"
+        },
+        {
+          "id": "cologne-34",
+          "section": "05 · 周日找店、用餐与休息",
+          "speaker": "你",
+          "de": "Ist dieses Geschäft heute geöffnet?",
+          "en": "Is this shop open today?"
+        },
+        {
+          "id": "cologne-35",
+          "section": "05 · 周日找店、用餐与休息",
+          "speaker": "路人",
+          "de": "Bitte schauen Sie auf die Öffnungszeiten an der Tür.",
+          "en": "Please check the opening hours on the door."
+        },
+        {
+          "id": "cologne-36",
+          "section": "05 · 周日找店、用餐与休息",
+          "speaker": "你",
+          "de": "Gibt es in der Nähe ein geöffnetes Café?",
+          "en": "Is there a café open nearby?"
+        },
+        {
+          "id": "cologne-37",
+          "section": "05 · 周日找店、用餐与休息",
+          "speaker": "你",
+          "de": "Haben Sie noch einen freien Tisch?",
+          "en": "Do you still have a free table?"
+        },
+        {
+          "id": "cologne-38",
+          "section": "05 · 周日找店、用餐与休息",
+          "speaker": "你",
+          "de": "Ich möchte etwas ohne Alkohol trinken.",
+          "en": "I'd like something without alcohol to drink."
+        },
+        {
+          "id": "cologne-39",
+          "section": "05 · 周日找店、用餐与休息",
+          "speaker": "你",
+          "de": "Könnte ich bitte Leitungswasser bekommen?",
+          "en": "Could I have tap water, please?"
+        },
+        {
+          "id": "cologne-40",
+          "section": "05 · 周日找店、用餐与休息",
+          "speaker": "你",
+          "de": "Kann ich bitte bezahlen?",
+          "en": "Could I pay, please?"
+        },
+        {
+          "id": "cologne-41",
+          "section": "05 · 周日找店、用餐与休息",
+          "speaker": "你",
+          "de": "Wo ist die nächste Toilette?",
+          "en": "Where is the nearest toilet?"
+        },
+        {
+          "id": "cologne-42",
+          "section": "06 · 返程变化与课后复盘",
+          "speaker": "你",
+          "de": "Hat sich das Abfahrtsgleis geändert?",
+          "en": "Has the departure platform changed?"
+        },
+        {
+          "id": "cologne-43",
+          "section": "06 · 返程变化与课后复盘",
+          "speaker": "你",
+          "de": "Ich habe meinen Anschluss verpasst. Was kann ich jetzt tun?",
+          "en": "I've missed my connection. What can I do now?"
+        },
+        {
+          "id": "cologne-44",
+          "section": "06 · 返程变化与课后复盘",
+          "speaker": "你",
+          "de": "Welche Verbindung kann ich mit meinem Ticket nehmen?",
+          "en": "Which connection can I take with my ticket?"
+        },
+        {
+          "id": "cologne-45",
+          "section": "06 · 返程变化与课后复盘",
+          "speaker": "你",
+          "de": "Können Sie mir das bitte aufschreiben?",
+          "en": "Could you write that down for me?"
+        },
+        {
+          "id": "cologne-46",
+          "section": "06 · 返程变化与课后复盘",
+          "speaker": "你",
+          "de": "Heute habe ich den Dom gesehen und bin am Rhein spazieren gegangen.",
+          "en": "Today I saw the cathedral and went for a walk along the Rhine."
+        },
+        {
+          "id": "cologne-47",
+          "section": "06 · 返程变化与课后复盘",
+          "speaker": "你",
+          "de": "Beim nächsten Mal möchte ich mehr von der Stadt sehen.",
+          "en": "Next time I'd like to see more of the city."
+        }
+      ],
+      "reference": "## 出发前 5 分钟\n练习确认车票 → 找 Dom 出口 → 询问参观／门票 → 问莱茵河方向 → 确认返程。\n## 词汇链\nder Hauptbahnhof — central station；der Dom — cathedral；die Altstadt — old town；der Gottesdienst — church service；die Schatzkammer — treasury；die Haltestelle — stop；entwerten — validate；der Anschluss — connection。\n## 不提前假定\n周日营业、教堂游览时段、门票范围和车票有效范围都用问句确认。本页不是实时营业／交通公告。用户所说“克隆”按 Köln / 科隆理解。\n## 课后复述\nHeute habe ich … gesehen. / Ich bin … gegangen. 用过去时说三个今天做过的事。\n## 参考\n主教座堂官网区分宗教活动与观光安排，具体访问政策与票务以当日官网及现场为准。",
+      "sources": [
+        {
+          "title": "Kölner Dom 官方参观信息",
+          "url": "https://www.koelner-dom.de/en"
+        }
+      ]
     }
   ],
-  "updated": "2026-09-24",
+  "updated": "2026-09-25",
   "featured": [
-    "thalia",
-    "trampoline",
-    "rewe",
-    "dm"
+    "fencing",
+    "shaolin-kempo",
+    "archery",
+    "enschede",
+    "cologne"
   ]
 };

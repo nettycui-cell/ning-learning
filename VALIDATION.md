@@ -26,3 +26,13 @@
 - 新增蹦床／dm 句子数与角色标签在页面中正确显示；浏览器未记录脚本错误。
 - app.js、data.js 和 sw.js 语法检查通过。
 - 语音音色仍取决于设备；未在实体 iPhone 上逐句听音验收。
+
+## 2026-09-25
+
+- PASS: 19 scenes, 1246 phrases, no duplicate IDs; previous 1028 phrases unchanged.
+- PASS: Sep25 fencing, Sep26 kempo + Enschede, Sep27 archery + Cologne; following weekend retains sports only.
+- PASS: per-occurrence cancellation, effective dates, DST day arithmetic, three-stage recommendation, next-week drill variation.
+- PASS: prep records survive reload; export/import validator accepts archived event IDs and rejects malformed prep keys.
+- PASS: existing German-only speech selection, delayed/no voices, offline fallback, speed, errors, voice backup tests.
+- PASS: 390px mobile homepage and future preparation entry; no horizontal overflow or browser console errors.
+- Calendar read: no events in Sep25–Oct10 on the connected primary calendar. Uses user-stated plans.
