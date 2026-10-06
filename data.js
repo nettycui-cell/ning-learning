@@ -8313,14 +8313,973 @@ window.NING_DATA = {
           "url": "https://www.koelner-dom.de/en"
         }
       ]
+    },
+    {
+      "id": "hiking",
+      "title": "Wandern · Hiking",
+      "zh": "10/4 徒步：集合、问路、途中交流与返程",
+      "category": "Outdoor",
+      "date": "2026-10-04",
+      "updated": "2026-10-04",
+      "learningHint": "按德国日间徒步准备；具体路线尚未提供。先练“集合 → 路线难度 → 问路 → 请求休息 → 返程”，不把模拟回答当作现场路线信息。",
+      "origin": "原创情境练习 · 按用户指定日期准备",
+      "phrases": [
+        {
+          "id": "hiking-0",
+          "section": "01 · 出发前与集合",
+          "speaker": "你",
+          "de": "Hallo, ich bin wegen der Wanderung hier. Bin ich am richtigen Treffpunkt?",
+          "en": "Hello, I'm here for the hike. Am I at the right meeting point?"
+        },
+        {
+          "id": "hiking-1",
+          "section": "01 · 出发前与集合",
+          "speaker": "领队",
+          "de": "Ja, wir sammeln uns hier. Wie heißt du?",
+          "en": "Yes, we're meeting here. What's your name?"
+        },
+        {
+          "id": "hiking-2",
+          "section": "01 · 出发前与集合",
+          "speaker": "你",
+          "de": "Ich heiße Ning. Ich bin heute zum ersten Mal dabei.",
+          "en": "My name is Ning. This is my first time joining you."
+        },
+        {
+          "id": "hiking-3",
+          "section": "01 · 出发前与集合",
+          "speaker": "你",
+          "de": "Muss ich mich noch bei jemandem anmelden?",
+          "en": "Do I still need to check in with someone?"
+        },
+        {
+          "id": "hiking-4",
+          "section": "01 · 出发前与集合",
+          "speaker": "领队",
+          "de": "Sag mir bitte kurz Bescheid, bevor wir losgehen.",
+          "en": "Please let me know before we set off."
+        },
+        {
+          "id": "hiking-5",
+          "section": "01 · 出发前与集合",
+          "speaker": "你",
+          "de": "Wann gehen wir los, und wann sind wir ungefähr zurück?",
+          "en": "When do we set off, and roughly when will we be back?"
+        },
+        {
+          "id": "hiking-6",
+          "section": "01 · 出发前与集合",
+          "speaker": "你",
+          "de": "Gehen wir gemeinsam los, oder treffen wir uns erst am Startpunkt?",
+          "en": "Are we setting off together, or meeting at the start of the trail?"
+        },
+        {
+          "id": "hiking-7",
+          "section": "01 · 出发前与集合",
+          "speaker": "你",
+          "de": "Kannst du mir den Startpunkt auf der Karte zeigen?",
+          "en": "Can you show me the starting point on the map?"
+        },
+        {
+          "id": "hiking-8",
+          "section": "02 · 路线、难度与准备",
+          "speaker": "你",
+          "de": "Wie lang ist die Strecke, und wie viele Höhenmeter sind es?",
+          "en": "How long is the route, and how much elevation gain is there?"
+        },
+        {
+          "id": "hiking-9",
+          "section": "02 · 路线、难度与准备",
+          "speaker": "你",
+          "de": "Ist das eine Rundwanderung, oder kommen wir an einem anderen Ort an?",
+          "en": "Is this a circular walk, or do we finish somewhere else?"
+        },
+        {
+          "id": "hiking-10",
+          "section": "02 · 路线、难度与准备",
+          "speaker": "领队",
+          "de": "Wir schauen uns die geplante Route kurz gemeinsam an.",
+          "en": "Let's take a quick look at the planned route together."
+        },
+        {
+          "id": "hiking-11",
+          "section": "02 · 路线、难度与准备",
+          "speaker": "你",
+          "de": "Ist die Strecke für Anfänger geeignet?",
+          "en": "Is the route suitable for beginners?"
+        },
+        {
+          "id": "hiking-12",
+          "section": "02 · 路线、难度与准备",
+          "speaker": "你",
+          "de": "Gibt es steile oder rutschige Abschnitte?",
+          "en": "Are there any steep or slippery sections?"
+        },
+        {
+          "id": "hiking-13",
+          "section": "02 · 路线、难度与准备",
+          "speaker": "你",
+          "de": "Wie viel Wasser sollte ich für diese Strecke mitnehmen?",
+          "en": "How much water should I bring for this route?"
+        },
+        {
+          "id": "hiking-14",
+          "section": "02 · 路线、难度与准备",
+          "speaker": "你",
+          "de": "Gibt es unterwegs eine Möglichkeit, Trinkwasser aufzufüllen?",
+          "en": "Is there somewhere along the way to refill drinking water?"
+        },
+        {
+          "id": "hiking-15",
+          "section": "02 · 路线、难度与准备",
+          "speaker": "你",
+          "de": "Brauche ich für diese Strecke besondere Ausrüstung?",
+          "en": "Do I need any special equipment for this route?"
+        },
+        {
+          "id": "hiking-16",
+          "section": "03 · 问路与看标识",
+          "speaker": "你",
+          "de": "Entschuldigung, führt dieser Weg zum Aussichtspunkt?",
+          "en": "Excuse me, does this path lead to the viewpoint?"
+        },
+        {
+          "id": "hiking-17",
+          "section": "03 · 问路与看标识",
+          "speaker": "路人",
+          "de": "Welchen Aussichtspunkt meinen Sie? Zeigen Sie ihn mir bitte auf der Karte.",
+          "en": "Which viewpoint do you mean? Please show me on the map."
+        },
+        {
+          "id": "hiking-18",
+          "section": "03 · 问路与看标识",
+          "speaker": "你",
+          "de": "Müssen wir an der nächsten Abzweigung links oder rechts gehen?",
+          "en": "Should we turn left or right at the next junction?"
+        },
+        {
+          "id": "hiking-19",
+          "section": "03 · 问路与看标识",
+          "speaker": "你",
+          "de": "Welcher Markierung sollen wir folgen?",
+          "en": "Which trail marker should we follow?"
+        },
+        {
+          "id": "hiking-20",
+          "section": "03 · 问路与看标识",
+          "speaker": "路人",
+          "de": "Prüfen Sie bitte den Wegweiser an der Kreuzung.",
+          "en": "Please check the signpost at the junction."
+        },
+        {
+          "id": "hiking-21",
+          "section": "03 · 问路与看标识",
+          "speaker": "你",
+          "de": "Ist dieser Weg zurzeit gesperrt?",
+          "en": "Is this path currently closed?"
+        },
+        {
+          "id": "hiking-22",
+          "section": "03 · 问路与看标识",
+          "speaker": "你",
+          "de": "Gibt es einen ausgeschilderten Umweg?",
+          "en": "Is there a signposted detour?"
+        },
+        {
+          "id": "hiking-23",
+          "section": "03 · 问路与看标识",
+          "speaker": "你",
+          "de": "Wie lange dauert es von hier ungefähr bis zum Ziel?",
+          "en": "Roughly how long does it take to reach the destination from here?"
+        },
+        {
+          "id": "hiking-24",
+          "section": "04 · 同行聊天与跟上队伍",
+          "speaker": "你",
+          "de": "Wanderst du oft in dieser Gegend?",
+          "en": "Do you often hike in this area?"
+        },
+        {
+          "id": "hiking-25",
+          "section": "04 · 同行聊天与跟上队伍",
+          "speaker": "同行",
+          "de": "Ab und zu. Und du?",
+          "en": "Now and then. How about you?"
+        },
+        {
+          "id": "hiking-26",
+          "section": "04 · 同行聊天与跟上队伍",
+          "speaker": "你",
+          "de": "Ich entdecke die Gegend gerade erst.",
+          "en": "I'm only just getting to know the area."
+        },
+        {
+          "id": "hiking-27",
+          "section": "04 · 同行聊天与跟上队伍",
+          "speaker": "你",
+          "de": "Was gefällt dir am Wandern besonders?",
+          "en": "What do you especially like about hiking?"
+        },
+        {
+          "id": "hiking-28",
+          "section": "04 · 同行聊天与跟上队伍",
+          "speaker": "同行",
+          "de": "Ich bin gern draußen und genieße die Ruhe.",
+          "en": "I like being outdoors and enjoying the peace and quiet."
+        },
+        {
+          "id": "hiking-29",
+          "section": "04 · 同行聊天与跟上队伍",
+          "speaker": "你",
+          "de": "Die Aussicht ist wirklich schön.",
+          "en": "The view is really beautiful."
+        },
+        {
+          "id": "hiking-30",
+          "section": "04 · 同行聊天与跟上队伍",
+          "speaker": "你",
+          "de": "Können wir etwas langsamer gehen?",
+          "en": "Can we walk a little more slowly?"
+        },
+        {
+          "id": "hiking-31",
+          "section": "04 · 同行聊天与跟上队伍",
+          "speaker": "你",
+          "de": "Wartet ihr bitte kurz an der nächsten Abzweigung auf mich?",
+          "en": "Could you wait for me at the next junction?"
+        },
+        {
+          "id": "hiking-32",
+          "section": "05 · 休息、天气变化与返程选择",
+          "speaker": "你",
+          "de": "Können wir kurz eine Pause machen?",
+          "en": "Can we take a short break?"
+        },
+        {
+          "id": "hiking-33",
+          "section": "05 · 休息、天气变化与返程选择",
+          "speaker": "同行",
+          "de": "Ja, sagen wir der Gruppe kurz Bescheid.",
+          "en": "Yes, let's let the group know."
+        },
+        {
+          "id": "hiking-34",
+          "section": "05 · 休息、天气变化与返程选择",
+          "speaker": "你",
+          "de": "Ich würde gern etwas trinken und eine Kleinigkeit essen.",
+          "en": "I'd like to have a drink and a small snack."
+        },
+        {
+          "id": "hiking-35",
+          "section": "05 · 休息、天气变化与返程选择",
+          "speaker": "你",
+          "de": "Wo ist die nächste Toilette?",
+          "en": "Where is the nearest toilet?"
+        },
+        {
+          "id": "hiking-36",
+          "section": "05 · 休息、天气变化与返程选择",
+          "speaker": "你",
+          "de": "Es fängt an zu regnen. Ändern wir die Route?",
+          "en": "It's starting to rain. Are we changing the route?"
+        },
+        {
+          "id": "hiking-37",
+          "section": "05 · 休息、天气变化与返程选择",
+          "speaker": "你",
+          "de": "Gibt es eine kürzere Strecke zurück zum Startpunkt?",
+          "en": "Is there a shorter route back to the starting point?"
+        },
+        {
+          "id": "hiking-38",
+          "section": "05 · 休息、天气变化与返程选择",
+          "speaker": "你",
+          "de": "Ich möchte heute früher zurück. Mit wem soll ich das absprechen?",
+          "en": "I'd like to head back earlier today. Who should I discuss that with?"
+        },
+        {
+          "id": "hiking-39",
+          "section": "05 · 休息、天气变化与返程选择",
+          "speaker": "领队",
+          "de": "Lass uns gemeinsam klären, wie du zurückkommst.",
+          "en": "Let's work out together how you'll get back."
+        },
+        {
+          "id": "hiking-40",
+          "section": "06 · 迷路、不适与请求帮助",
+          "speaker": "你",
+          "de": "Ich bin mir nicht sicher, ob wir noch auf dem richtigen Weg sind.",
+          "en": "I'm not sure whether we're still on the right path."
+        },
+        {
+          "id": "hiking-41",
+          "section": "06 · 迷路、不适与请求帮助",
+          "speaker": "你",
+          "de": "Können wir unseren Standort auf der Karte prüfen?",
+          "en": "Can we check our location on the map?"
+        },
+        {
+          "id": "hiking-42",
+          "section": "06 · 迷路、不适与请求帮助",
+          "speaker": "你",
+          "de": "Mein Handy hat hier keinen Empfang.",
+          "en": "My phone has no reception here."
+        },
+        {
+          "id": "hiking-43",
+          "section": "06 · 迷路、不适与请求帮助",
+          "speaker": "你",
+          "de": "Ich habe den Anschluss an die Gruppe verloren.",
+          "en": "I've become separated from the group."
+        },
+        {
+          "id": "hiking-44",
+          "section": "06 · 迷路、不适与请求帮助",
+          "speaker": "你",
+          "de": "Ich bin umgeknickt. Mein Knöchel tut weh.",
+          "en": "I've twisted my ankle. My ankle hurts."
+        },
+        {
+          "id": "hiking-45",
+          "section": "06 · 迷路、不适与请求帮助",
+          "speaker": "你",
+          "de": "Mir ist schwindelig. Ich brauche Hilfe.",
+          "en": "I feel dizzy. I need help."
+        },
+        {
+          "id": "hiking-46",
+          "section": "06 · 迷路、不适与请求帮助",
+          "speaker": "你",
+          "de": "Ich kann nicht weitergehen. Bitte bleiben Sie bei mir.",
+          "en": "I can't walk any further. Please stay with me."
+        },
+        {
+          "id": "hiking-47",
+          "section": "06 · 迷路、不适与请求帮助",
+          "speaker": "你·紧急情况",
+          "de": "Bitte rufen Sie den Rettungsdienst. Wir brauchen dringend Hilfe.",
+          "en": "Please call the emergency services. We urgently need help."
+        },
+        {
+          "id": "hiking-48",
+          "section": "07 · 紧急求助时描述情况",
+          "speaker": "接线员·模拟",
+          "de": "Wo genau befinden Sie sich?",
+          "en": "Where exactly are you?"
+        },
+        {
+          "id": "hiking-49",
+          "section": "07 · 紧急求助时描述情况",
+          "speaker": "你·紧急情况",
+          "de": "Ich sehe einen Wegweiser. Ich lese Ihnen vor, was darauf steht.",
+          "en": "I can see a signpost. I'll read out what it says."
+        },
+        {
+          "id": "hiking-50",
+          "section": "07 · 紧急求助时描述情况",
+          "speaker": "接线员·模拟",
+          "de": "Was ist passiert, und wie viele Personen sind betroffen?",
+          "en": "What happened, and how many people are affected?"
+        },
+        {
+          "id": "hiking-51",
+          "section": "07 · 紧急求助时描述情况",
+          "speaker": "你·紧急情况",
+          "de": "Eine Person ist gestürzt und kann nicht weitergehen.",
+          "en": "One person has fallen and cannot continue walking."
+        },
+        {
+          "id": "hiking-52",
+          "section": "07 · 紧急求助时描述情况",
+          "speaker": "你·紧急情况",
+          "de": "Ich kann Ihnen die Koordinaten auf meinem Handy vorlesen.",
+          "en": "I can read you the coordinates from my phone."
+        },
+        {
+          "id": "hiking-53",
+          "section": "07 · 紧急求助时描述情况",
+          "speaker": "你·紧急情况",
+          "de": "Ich verstehe nicht alles. Können Sie bitte langsamer sprechen?",
+          "en": "I don't understand everything. Could you speak more slowly, please?"
+        },
+        {
+          "id": "hiking-54",
+          "section": "08 · 结束、交通与复盘",
+          "speaker": "你",
+          "de": "Welche Haltestelle ist von hier aus am nächsten?",
+          "en": "Which stop is closest to here?"
+        },
+        {
+          "id": "hiking-55",
+          "section": "08 · 结束、交通与复盘",
+          "speaker": "你",
+          "de": "Wo kann ich die aktuelle Abfahrtszeit nachsehen?",
+          "en": "Where can I check the current departure time?"
+        },
+        {
+          "id": "hiking-56",
+          "section": "08 · 结束、交通与复盘",
+          "speaker": "你",
+          "de": "Fährt dieser Bus zum Bahnhof?",
+          "en": "Does this bus go to the station?"
+        },
+        {
+          "id": "hiking-57",
+          "section": "08 · 结束、交通与复盘",
+          "speaker": "你",
+          "de": "Danke fürs Organisieren. Es hat mir viel Spaß gemacht.",
+          "en": "Thank you for organising this. I really enjoyed it."
+        },
+        {
+          "id": "hiking-58",
+          "section": "08 · 结束、交通与复盘",
+          "speaker": "你",
+          "de": "Heute bin ich gewandert und habe neue Leute kennengelernt.",
+          "en": "Today I went hiking and met new people."
+        },
+        {
+          "id": "hiking-59",
+          "section": "08 · 结束、交通与复盘",
+          "speaker": "你",
+          "de": "Beim nächsten Mal würde ich gern wieder mitkommen.",
+          "en": "I'd love to join you again next time."
+        }
+      ],
+      "reference": "## 10 分钟开口顺序\n① 集合：说出自己的名字并确认队伍。② 路线：问长度、爬升、难度。③ 途中：问方向、请求慢一点。④ 变化：请求休息、表达不适。⑤ 结束：问返程、感谢同行。\n## 核心词汇 DE → EN → 中文\ndie Wanderung → hike → 徒步；der Treffpunkt → meeting point → 集合点；der Rundweg → circular trail → 环线；die Höhenmeter → elevation gain/loss → 高度变化（问路线时确认上升还是下降）；die Abzweigung → junction → 岔路；der Wegweiser → signpost → 路标；gesperrt → closed → 封闭；rutschig → slippery → 湿滑；der Umweg → detour → 绕行；der Empfang → reception → 手机信号。\n## 3 个可替换句型\nFührt dieser Weg zum …? / Does this path lead to …? 把终点替换成 Bahnhof、Parkplatz 或 Aussichtspunkt。\nKönnen wir etwas …? / Can we … a little? 加 langsamer gehen、früher zurückgehen。\nIch brauche … / I need … 加 eine Pause、Hilfe、etwas Wasser。\n## 现场用法\n对领队和同行可跟随对方使用 du / ihr；问陌生人用 Sie。未提供路线、班次或天气，本页不预测现场情况。\n紧急求助短句仅用于沟通。真实紧急情况可拨打欧盟统一紧急号码 112；不是查询天气或路线的号码。只描述真实发生的情况和你能确认的位置。\n## 课后自测\n盖住英文：你能问出正确集合点、路线难度、行进方向、请求休息、返程交通吗？再用 Heute bin ich … 描述一次实际经历。\n",
+      "sources": [
+        {
+          "title": "欧盟委员会：紧急号码 112",
+          "url": "https://digital-strategy.ec.europa.eu/en/policies/112"
+        }
+      ]
+    },
+    {
+      "id": "college-registration",
+      "title": "Hochschule · Registration",
+      "zh": "10/5 学院注册：报到、材料、选课与后续手续 · DE / EN",
+      "category": "Campus",
+      "date": "2026-10-05",
+      "updated": "2026-10-04",
+      "learningHint": "德语和英语都可以直接用于现场交流；关闭 German-only 可同时显示两种语言。学院名称与注册类型尚未确认，以下按通用流程练习，材料和截止日向本人办理的部门核实。",
+      "origin": "原创情境练习 · 按用户指定日期准备",
+      "phrases": [
+        {
+          "id": "college-registration-0",
+          "section": "01 · 到达、问路与排队",
+          "speaker": "你",
+          "de": "Guten Morgen. Ich bin wegen meiner Anmeldung hier. Bin ich bei Ihnen richtig?",
+          "en": "Good morning. I'm here for my registration. Am I in the right place?"
+        },
+        {
+          "id": "college-registration-1",
+          "section": "01 · 到达、问路与排队",
+          "speaker": "工作人员",
+          "de": "Geht es um die Einschreibung, die Anmeldung am Fachbereich oder die Kursanmeldung?",
+          "en": "Is this about enrolment, checking in with your department, or registering for courses?"
+        },
+        {
+          "id": "college-registration-2",
+          "section": "01 · 到达、问路与排队",
+          "speaker": "你·入学注册适用",
+          "de": "Es geht um meine Einschreibung an der Hochschule.",
+          "en": "It's about my enrolment at the university."
+        },
+        {
+          "id": "college-registration-3",
+          "section": "01 · 到达、问路与排队",
+          "speaker": "你·交换生报到适用",
+          "de": "Ich bin Austauschstudentin und möchte mich am Fachbereich anmelden.",
+          "en": "I'm an exchange student, and I'd like to check in with my department."
+        },
+        {
+          "id": "college-registration-4",
+          "section": "01 · 到达、问路与排队",
+          "speaker": "你",
+          "de": "Wo finde ich das zuständige Büro?",
+          "en": "Where can I find the office responsible for this?"
+        },
+        {
+          "id": "college-registration-5",
+          "section": "01 · 到达、问路与排队",
+          "speaker": "你",
+          "de": "Brauche ich einen Termin, oder kann ich heute ohne Termin kommen?",
+          "en": "Do I need an appointment, or can I come in without one today?"
+        },
+        {
+          "id": "college-registration-6",
+          "section": "01 · 到达、问路与排队",
+          "speaker": "你",
+          "de": "Muss ich eine Nummer ziehen oder mich in eine Liste eintragen?",
+          "en": "Do I need to take a number or sign in on a list?"
+        },
+        {
+          "id": "college-registration-7",
+          "section": "01 · 到达、问路与排队",
+          "speaker": "工作人员",
+          "de": "Bitte warten Sie kurz. Ich frage nach, wer zuständig ist.",
+          "en": "Please wait a moment. I'll check who is responsible."
+        },
+        {
+          "id": "college-registration-8",
+          "section": "02 · 自我介绍与切换语言",
+          "speaker": "你",
+          "de": "Ich heiße Ning. Ich habe meine Unterlagen mitgebracht.",
+          "en": "My name is Ning. I've brought my documents with me."
+        },
+        {
+          "id": "college-registration-9",
+          "section": "02 · 自我介绍与切换语言",
+          "speaker": "你",
+          "de": "Mein Termin ist heute. Hier ist die Bestätigung.",
+          "en": "My appointment is today. Here is the confirmation."
+        },
+        {
+          "id": "college-registration-10",
+          "section": "02 · 自我介绍与切换语言",
+          "speaker": "工作人员",
+          "de": "Können Sie mir bitte Ihren Nachnamen buchstabieren?",
+          "en": "Could you spell your surname for me, please?"
+        },
+        {
+          "id": "college-registration-11",
+          "section": "02 · 自我介绍与切换语言",
+          "speaker": "你",
+          "de": "Ich zeige Ihnen die Schreibweise in meinem Dokument.",
+          "en": "I'll show you how it is written in my document."
+        },
+        {
+          "id": "college-registration-12",
+          "section": "02 · 自我介绍与切换语言",
+          "speaker": "你",
+          "de": "Mein Deutsch ist noch nicht so gut. Können wir auf Englisch sprechen?",
+          "en": "My German isn't very good yet. Could we speak in English?"
+        },
+        {
+          "id": "college-registration-13",
+          "section": "02 · 自我介绍与切换语言",
+          "speaker": "工作人员",
+          "de": "Ja, gern. Wobei kann ich Ihnen helfen?",
+          "en": "Yes, of course. How can I help you?"
+        },
+        {
+          "id": "college-registration-14",
+          "section": "02 · 自我介绍与切换语言",
+          "speaker": "你",
+          "de": "Könnten Sie bitte etwas langsamer sprechen?",
+          "en": "Could you speak a little more slowly, please?"
+        },
+        {
+          "id": "college-registration-15",
+          "section": "02 · 自我介绍与切换语言",
+          "speaker": "你",
+          "de": "Könnten Sie mir den Begriff bitte aufschreiben?",
+          "en": "Could you write that term down for me, please?"
+        },
+        {
+          "id": "college-registration-16",
+          "section": "03 · 区分已完成与仍待办理",
+          "speaker": "你",
+          "de": "Ich habe die Online-Anmeldung bereits abgeschickt.",
+          "en": "I've already submitted the online registration."
+        },
+        {
+          "id": "college-registration-17",
+          "section": "03 · 区分已完成与仍待办理",
+          "speaker": "你",
+          "de": "Ich bin bereits eingeschrieben. Heute geht es nur um die Anmeldung am Fachbereich.",
+          "en": "I'm already enrolled. Today I only need to check in with my department."
+        },
+        {
+          "id": "college-registration-18",
+          "section": "03 · 区分已完成与仍待办理",
+          "speaker": "你",
+          "de": "Ich bin noch nicht sicher, ob meine Einschreibung abgeschlossen ist.",
+          "en": "I'm not yet sure whether my enrolment is complete."
+        },
+        {
+          "id": "college-registration-19",
+          "section": "03 · 区分已完成与仍待办理",
+          "speaker": "你",
+          "de": "Könnten Sie bitte den Status meiner Anmeldung prüfen?",
+          "en": "Could you check the status of my registration, please?"
+        },
+        {
+          "id": "college-registration-20",
+          "section": "03 · 区分已完成与仍待办理",
+          "speaker": "工作人员",
+          "de": "Haben Sie eine Bewerbungsnummer oder schon eine Matrikelnummer?",
+          "en": "Do you have an application number, or already a student ID number?"
+        },
+        {
+          "id": "college-registration-21",
+          "section": "03 · 区分已完成与仍待办理",
+          "speaker": "你",
+          "de": "Ich habe bisher nur eine Bewerbungsnummer.",
+          "en": "So far, I only have an application number."
+        },
+        {
+          "id": "college-registration-22",
+          "section": "03 · 区分已完成与仍待办理",
+          "speaker": "你",
+          "de": "Wo kann ich meine Matrikelnummer finden?",
+          "en": "Where can I find my student ID number?"
+        },
+        {
+          "id": "college-registration-23",
+          "section": "03 · 区分已完成与仍待办理",
+          "speaker": "你",
+          "de": "Welche Schritte muss ich heute noch erledigen?",
+          "en": "Which steps do I still need to complete today?"
+        },
+        {
+          "id": "college-registration-24",
+          "section": "04 · 材料逐项核对",
+          "speaker": "你",
+          "de": "Welche Unterlagen benötigen Sie in meinem Fall?",
+          "en": "Which documents do you need in my case?"
+        },
+        {
+          "id": "college-registration-25",
+          "section": "04 · 材料逐项核对",
+          "speaker": "工作人员",
+          "de": "Darf ich bitte Ihre Zulassungsbestätigung sehen?",
+          "en": "May I see your admission confirmation, please?"
+        },
+        {
+          "id": "college-registration-26",
+          "section": "04 · 材料逐项核对",
+          "speaker": "你",
+          "de": "Hier ist die Bestätigung. Brauchen Sie auch meinen Reisepass?",
+          "en": "Here is the confirmation. Do you also need my passport?"
+        },
+        {
+          "id": "college-registration-27",
+          "section": "04 · 材料逐项核对",
+          "speaker": "你",
+          "de": "Benötigen Sie das Original, eine Kopie oder eine digitale Datei?",
+          "en": "Do you need the original, a copy, or a digital file?"
+        },
+        {
+          "id": "college-registration-28",
+          "section": "04 · 材料逐项核对",
+          "speaker": "你",
+          "de": "Reicht diese Datei aus, oder brauchen Sie eine beglaubigte Kopie?",
+          "en": "Is this file sufficient, or do you need a certified copy?"
+        },
+        {
+          "id": "college-registration-29",
+          "section": "04 · 材料逐项核对",
+          "speaker": "你",
+          "de": "Muss ich das Dokument übersetzen lassen?",
+          "en": "Do I need to have the document translated?"
+        },
+        {
+          "id": "college-registration-30",
+          "section": "04 · 材料逐项核对",
+          "speaker": "你",
+          "de": "Ist die Meldung meiner Krankenversicherung schon bei Ihnen eingegangen?",
+          "en": "Have you received the notification from my health insurer yet?"
+        },
+        {
+          "id": "college-registration-31",
+          "section": "04 · 材料逐项核对",
+          "speaker": "工作人员",
+          "de": "Ich prüfe, ob Ihre Unterlagen vollständig sind.",
+          "en": "I'll check whether your documents are complete."
+        },
+        {
+          "id": "college-registration-32",
+          "section": "05 · 缺材料、上传失败与期限",
+          "speaker": "工作人员·可能情况",
+          "de": "Ein Nachweis fehlt noch.",
+          "en": "One supporting document is still missing."
+        },
+        {
+          "id": "college-registration-33",
+          "section": "05 · 缺材料、上传失败与期限",
+          "speaker": "你",
+          "de": "Welcher Nachweis fehlt genau?",
+          "en": "Exactly which supporting document is missing?"
+        },
+        {
+          "id": "college-registration-34",
+          "section": "05 · 缺材料、上传失败与期限",
+          "speaker": "你",
+          "de": "Kann ich den fehlenden Nachweis nachreichen, und bis wann?",
+          "en": "Can I submit the missing supporting document later, and by what deadline?"
+        },
+        {
+          "id": "college-registration-35",
+          "section": "05 · 缺材料、上传失败与期限",
+          "speaker": "你",
+          "de": "Wo soll ich das Dokument hochladen oder abgeben?",
+          "en": "Where should I upload or submit the document?"
+        },
+        {
+          "id": "college-registration-36",
+          "section": "05 · 缺材料、上传失败与期限",
+          "speaker": "你",
+          "de": "Welche Dateiformate und Dateigrößen werden akzeptiert?",
+          "en": "Which file formats and file sizes are accepted?"
+        },
+        {
+          "id": "college-registration-37",
+          "section": "05 · 缺材料、上传失败与期限",
+          "speaker": "你",
+          "de": "Beim Hochladen bekomme ich eine Fehlermeldung. Können Sie mir helfen?",
+          "en": "I get an error message when I try to upload it. Could you help me?"
+        },
+        {
+          "id": "college-registration-38",
+          "section": "05 · 缺材料、上传失败与期限",
+          "speaker": "你",
+          "de": "Können Sie mir die genaue Frist bitte schriftlich bestätigen?",
+          "en": "Could you confirm the exact deadline in writing, please?"
+        },
+        {
+          "id": "college-registration-39",
+          "section": "05 · 缺材料、上传失败与期限",
+          "speaker": "你",
+          "de": "Kann ich die anderen Schritte trotzdem schon erledigen?",
+          "en": "Can I complete the other steps in the meantime?"
+        },
+        {
+          "id": "college-registration-40",
+          "section": "06 · 学期费用、学生证与注册证明",
+          "speaker": "你",
+          "de": "Muss ich in meinem Fall einen Semesterbeitrag bezahlen?",
+          "en": "Do I need to pay a semester contribution in my case?"
+        },
+        {
+          "id": "college-registration-41",
+          "section": "06 · 学期费用、学生证与注册证明",
+          "speaker": "你",
+          "de": "Wo finde ich den für mich geltenden Betrag und die Zahlungsfrist?",
+          "en": "Where can I find the amount that applies to me and the payment deadline?"
+        },
+        {
+          "id": "college-registration-42",
+          "section": "06 · 学期费用、学生证与注册证明",
+          "speaker": "你",
+          "de": "Ist meine Zahlung bereits eingegangen?",
+          "en": "Has my payment been received yet?"
+        },
+        {
+          "id": "college-registration-43",
+          "section": "06 · 学期费用、学生证与注册证明",
+          "speaker": "你",
+          "de": "Wie erhalte ich meinen Studierendenausweis?",
+          "en": "How do I get my student ID card?"
+        },
+        {
+          "id": "college-registration-44",
+          "section": "06 · 学期费用、学生证与注册证明",
+          "speaker": "工作人员",
+          "de": "Die nächsten Schritte finden Sie im Portal oder in unserer Nachricht.",
+          "en": "You can find the next steps in the portal or in our message."
+        },
+        {
+          "id": "college-registration-45",
+          "section": "06 · 学期费用、学生证与注册证明",
+          "speaker": "你",
+          "de": "Wo kann ich meine Immatrikulationsbescheinigung herunterladen?",
+          "en": "Where can I download my certificate of enrolment?"
+        },
+        {
+          "id": "college-registration-46",
+          "section": "06 · 学期费用、学生证与注册证明",
+          "speaker": "你",
+          "de": "Bekomme ich eine Bestätigung, sobald alles abgeschlossen ist?",
+          "en": "Will I receive confirmation once everything is complete?"
+        },
+        {
+          "id": "college-registration-47",
+          "section": "06 · 学期费用、学生证与注册证明",
+          "speaker": "你",
+          "de": "Welche Kontaktdaten soll ich für Rückfragen angeben?",
+          "en": "Which contact details should I provide for follow-up questions?"
+        },
+        {
+          "id": "college-registration-48",
+          "section": "07 · 账号、校园网络与信息入口",
+          "speaker": "你",
+          "de": "Wie aktiviere ich meinen Hochschulaccount?",
+          "en": "How do I activate my university account?"
+        },
+        {
+          "id": "college-registration-49",
+          "section": "07 · 账号、校园网络与信息入口",
+          "speaker": "你",
+          "de": "Ich habe die Zugangsdaten noch nicht erhalten.",
+          "en": "I haven't received my login details yet."
+        },
+        {
+          "id": "college-registration-50",
+          "section": "07 · 账号、校园网络与信息入口",
+          "speaker": "你",
+          "de": "An wen kann ich mich wenden, wenn der Login nicht funktioniert?",
+          "en": "Who should I contact if I can't log in?"
+        },
+        {
+          "id": "college-registration-51",
+          "section": "07 · 账号、校园网络与信息入口",
+          "speaker": "你",
+          "de": "Welche E-Mail-Adresse soll ich für Hochschulangelegenheiten benutzen?",
+          "en": "Which email address should I use for university matters?"
+        },
+        {
+          "id": "college-registration-52",
+          "section": "07 · 账号、校园网络与信息入口",
+          "speaker": "你",
+          "de": "Wo finde ich die Anleitung für das WLAN?",
+          "en": "Where can I find the instructions for connecting to Wi-Fi?"
+        },
+        {
+          "id": "college-registration-53",
+          "section": "07 · 账号、校园网络与信息入口",
+          "speaker": "你",
+          "de": "Gibt es eine Einführungsveranstaltung für neue Studierende?",
+          "en": "Is there an orientation session for new students?"
+        },
+        {
+          "id": "college-registration-54",
+          "section": "07 · 账号、校园网络与信息入口",
+          "speaker": "工作人员",
+          "de": "Die Informationen dazu finden Sie auf unserer Website.",
+          "en": "You can find information about that on our website."
+        },
+        {
+          "id": "college-registration-55",
+          "section": "07 · 账号、校园网络与信息入口",
+          "speaker": "你",
+          "de": "Können Sie mir bitte die genaue Webseite zeigen?",
+          "en": "Could you show me the exact webpage, please?"
+        },
+        {
+          "id": "college-registration-56",
+          "section": "08 · 选课、考试与交换学分",
+          "speaker": "你",
+          "de": "Muss ich mich für die Lehrveranstaltungen separat anmelden?",
+          "en": "Do I need to register for classes separately?"
+        },
+        {
+          "id": "college-registration-57",
+          "section": "08 · 选课、考试与交换学分",
+          "speaker": "你",
+          "de": "Wo finde ich das Vorlesungsverzeichnis und die Anmeldefristen?",
+          "en": "Where can I find the course catalogue and registration deadlines?"
+        },
+        {
+          "id": "college-registration-58",
+          "section": "08 · 选课、考试与交换学分",
+          "speaker": "你",
+          "de": "Sind die Anmeldung zum Kurs und die Anmeldung zur Prüfung zwei getrennte Schritte?",
+          "en": "Are course registration and exam registration two separate steps?"
+        },
+        {
+          "id": "college-registration-59",
+          "section": "08 · 选课、考试与交换学分",
+          "speaker": "你",
+          "de": "Darf ich als Austauschstudentin diesen Kurs belegen?",
+          "en": "May I take this course as an exchange student?"
+        },
+        {
+          "id": "college-registration-60",
+          "section": "08 · 选课、考试与交换学分",
+          "speaker": "你",
+          "de": "Gibt es Voraussetzungen oder eine begrenzte Teilnehmerzahl?",
+          "en": "Are there any prerequisites or limits on the number of participants?"
+        },
+        {
+          "id": "college-registration-61",
+          "section": "08 · 选课、考试与交换学分",
+          "speaker": "你",
+          "de": "Der Kurs ist voll. Gibt es eine Warteliste?",
+          "en": "The course is full. Is there a waiting list?"
+        },
+        {
+          "id": "college-registration-62",
+          "section": "08 · 选课、考试与交换学分",
+          "speaker": "你",
+          "de": "Wie viele ECTS-Punkte bekomme ich für diesen Kurs?",
+          "en": "How many ECTS credits do I receive for this course?"
+        },
+        {
+          "id": "college-registration-63",
+          "section": "08 · 选课、考试与交换学分",
+          "speaker": "你",
+          "de": "Wer kann mein Learning Agreement prüfen und unterschreiben?",
+          "en": "Who can check and sign my Learning Agreement?"
+        },
+        {
+          "id": "college-registration-64",
+          "section": "09 · 离开前确认与后续跟进",
+          "speaker": "你",
+          "de": "Habe ich alles richtig verstanden: Ich soll zuerst die fehlenden Unterlagen einreichen?",
+          "en": "Have I understood correctly: I should submit the missing documents first?"
+        },
+        {
+          "id": "college-registration-65",
+          "section": "09 · 离开前确认与后续跟进",
+          "speaker": "工作人员·可能情况",
+          "de": "Ja. Danach können wir den nächsten Schritt prüfen.",
+          "en": "Yes. Then we can check the next step."
+        },
+        {
+          "id": "college-registration-66",
+          "section": "09 · 离开前确认与后续跟进",
+          "speaker": "你",
+          "de": "Ist für heute noch etwas offen?",
+          "en": "Is there anything else I need to do today?"
+        },
+        {
+          "id": "college-registration-67",
+          "section": "09 · 离开前确认与后续跟进",
+          "speaker": "你",
+          "de": "Muss ich noch einmal persönlich vorbeikommen?",
+          "en": "Do I need to come back in person?"
+        },
+        {
+          "id": "college-registration-68",
+          "section": "09 · 离开前确认与后续跟进",
+          "speaker": "你",
+          "de": "An wen soll ich mich wenden, wenn ich keine Bestätigung bekomme?",
+          "en": "Who should I contact if I don't receive confirmation?"
+        },
+        {
+          "id": "college-registration-69",
+          "section": "09 · 离开前确认与后续跟进",
+          "speaker": "你",
+          "de": "Vielen Dank. Ich fasse die nächsten Schritte kurz zusammen.",
+          "en": "Thank you. I'll briefly summarise the next steps."
+        },
+        {
+          "id": "college-registration-70",
+          "section": "09 · 离开前确认与后续跟进",
+          "speaker": "你·后续跟进",
+          "de": "Ich war am fünften Oktober bei Ihnen. Ich möchte nach dem Stand meiner Anmeldung fragen.",
+          "en": "I visited your office on 5 October. I'd like to ask about the status of my registration."
+        },
+        {
+          "id": "college-registration-71",
+          "section": "09 · 离开前确认与后续跟进",
+          "speaker": "你·后续跟进",
+          "de": "Ich habe die fehlenden Unterlagen eingereicht. Können Sie den Eingang bestätigen?",
+          "en": "I've submitted the missing documents. Could you confirm receipt?"
+        }
+      ],
+      "reference": "## 先选对开场白\n入学注册：Ich möchte mich einschreiben. / I'd like to enrol.\n交换生报到：Ich bin Austauschstudentin und möchte mich am Fachbereich anmelden. / I'm an exchange student and I'd like to check in with my department.\n课程报名：Ich möchte mich für diesen Kurs anmelden. / I'd like to register for this course.\n上面是三种情形，不要把“已录取”“已注册”“已选课”当作同一状态。只使用符合自己实际进度的句子。\n## 关键词 DE → EN → 中文\ndie Einschreibung / Immatrikulation → enrolment → 正式入学注册\ndie Anmeldung → registration → 报名／登记（需说明具体事项）\ndie Zulassung → admission → 录取\ndie Bewerbungsnummer → application number → 申请编号\ndie Matrikelnummer → student ID number → 学号\nder Fachbereich → department / faculty → 院系\ndas Studierendensekretariat → student administration / registrar's office → 学籍注册部门\nder Nachweis → supporting document / proof → 证明材料\nnachreichen → submit later → 补交；die Frist → deadline → 截止日期\nder Semesterbeitrag → semester contribution → 学期杂费；die Studiengebühren → tuition fees → 学费（两个词不同）\ndas Vorlesungsverzeichnis → course catalogue → 课程目录；die Prüfungsanmeldung → exam registration → 考试报名\n## 5 分钟 DE / EN 双练\n先用德语说“我来做什么”，再用英语说一遍；轮流问材料、期限、是否完成、下一步。对方回答太长时，练 Können Sie mir das bitte aufschreiben? / Could you write that down for me?\n## 现场记录模板（自己填写）\n我的注册类型：____\n目前完成的步骤：____\n缺什么／提交到哪里：____\n准确截止日：____\n下一步和负责部门：____\n成功完成的确认方式：____\n## 办理范围\n具体学院和注册类型尚未提供。这里不列所谓“必须携带”的统一清单，也不保证可以补交、当场办结或某种费用适用。DAAD 说明高校的注册流程与材料要求各有不同；以你的录取／报到通知和负责部门答复为准。对话是原创模拟，工作人员的回答是可能分支。\n",
+      "sources": [
+        {
+          "title": "DAAD 官方：Enrolling / 入学注册",
+          "url": "https://www.daad.de/en/studying-in-germany/requirements/enrolling/"
+        }
+      ]
     }
   ],
-  "updated": "2026-09-25",
+  "updated": "2026-10-04",
   "featured": [
-    "fencing",
-    "shaolin-kempo",
-    "archery",
-    "enschede",
-    "cologne"
+    "hiking",
+    "college-registration"
   ]
 };

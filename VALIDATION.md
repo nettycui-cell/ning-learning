@@ -36,3 +36,13 @@
 - PASS: existing German-only speech selection, delayed/no voices, offline fallback, speed, errors, voice backup tests.
 - PASS: 390px mobile homepage and future preparation entry; no horizontal overflow or browser console errors.
 - Calendar read: no events in Sep25–Oct10 on the connected primary calendar. Uses user-stated plans.
+
+## 2026-10-04 content update
+
+- PASS: 21 scenes / 1378 phrases; all previous 1246 phrases preserved unchanged with stable IDs.
+- PASS: Oct4 hiking is prioritised while the existing archery occurrence remains; Oct5 college registration is a one-off campus event. Neither new event repeats the following week.
+- PASS: registration has 72 German/English phrase pairs, hiking 60; five priority phrases and three preparation stages resolve correctly for each event.
+- PASS: campus-specific labels and bilingual prompts; existing date, DST, recurrence, exception, and backup validation checks.
+- PASS: German-only voice selection and existing speech fallback tests.
+- PASS: 390px browser preview, no horizontal overflow; registration preparation persists after reload; German-only hides the English text.
+- School and route were not provided. Generic practice branches are explicit; sources are linked in the scene notes. No invented school requirements or live route information.
